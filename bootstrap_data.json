@@ -239,13 +239,13 @@
   "sessions" : [
       { "captionsUrl" : "",
         "color" : "#3f51b5",
-        "description" : "Google I/O's much-anticipated kickoff event will make you among the first developers to see what we've been working on here at Google. If you're not joining us at Moscone, grab some popcorn, kick back and enjoy the show directly from your Android powered device.",
+        "description" : "As an evolutionary biologist, Richard Dawkins has broadened our understanding of the genetic origin of our species; as a popular author, he has helped lay readers understand complex scientific concepts. He's best-known for the ideas laid out in his landmark book The Selfish Gene and fleshed out in The Extended Phenotype: the rather radical notion that Darwinian selection happens not at the level of the individual, but at the level of our DNA. The implication: We evolved for only one purpose Ñ to serve our genes",
         "endTimestamp" : "2014-06-25T18:00:00Z",
         "hashtag" : "Tag1",
         "id" : "__keynote__",
         "isLivestream" : true,
         "mainTag" : "Tag1",
-        "photoUrl" : "http://storage.googleapis.com/iosched-updater-dev.appspot.com/images/sessions/__w-200-400-600-800-1000__/__keynote__.jpg",
+        "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/richard-dawkins-2003.jpg",
         "room" : "keynote",
         "speakers" : [ "11613bcb-7edb-e311-b297-00155d5066d7" ],
         "startTimestamp" : "2014-06-25T16:00:00Z",
@@ -271,12 +271,12 @@
       }
     ],
   "speakers" : [
-      { "bio" : "Kirill has been doing professional client-side development over the last decade in a variety of UI toolkits and libraries that spanned Motif, MFC, VB, Ada, Delphi, Swing and SWT. Since 2009 he's been part of the Android team at Google. He has a particular interest in creating polished, responsive and well-behaving, user-facing applications that help the end users achieve their goals quickly and painlessly.",
-        "company" : "Google",
+      { "bio" : "Oxford professor Richard Dawkins has helped steer evolutionary science into the 21st century, and his concept of the "meme" contextualized the spread of ideas in the information age. In recent years, his devastating critique of religion has made him a leading figure in the New Atheism.",
+        "company" : "RDF",
         "id" : "b5ca32e2-a5c6-e311-b297-00155d5066d7",
-        "name" : "Kirill Grouchnikov",
-        "plusoneUrl" : "https://plus.google.com/+KirillGrouchnikov",
-        "thumbnailUrl" : "http://storage.googleapis.com/iosched-updater-dev.appspot.com/images/speakers/__w-200-400-600-800-1000__/b5ca32e2-a5c6-e311-b297-00155d5066d7.jpg"
+        "name" : "Richard Dawkins",
+        "plusoneUrl" : "RichardDawkins.net",
+        "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/richard-dawkins-2003.jpg"
       },
       { "bio" : "Babak Pahlavan leads Product Management for Google Analytics. He oversees product & strategy for Mobile Apps, Universal Analytics, Google Tag Manager and Integrations with AdWords, AdMob, YouTube among other aspects of the business. \n\nPrior to Google, he was the co-founder and CEO of Clever Sense, an analytical context-aware recommendation engine, which was acquired by Google in December of 2011. \n\nIn 2012, Babak was selected as one of the 30 under 30 from Forbes in the technology category. Babak holds a masters degree in EE with focus on CS from Stanford University and Bachelors degree from from UC Berkeley in EE and CS.",
         "company" : "Google",
