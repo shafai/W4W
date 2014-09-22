@@ -239,7 +239,7 @@
   "sessions" : [
       { "captionsUrl" : "",
         "color" : "#3f51b5",
-        "description" : "As an evolutionary biologist, Richard Dawkins has broadened our understanding of the genetic origin of our species; as a popular author, he has helped lay readers understand complex scientific concepts. He's best-known for the ideas laid out in his landmark book The Selfish Gene and fleshed out in The Extended Phenotype: the rather radical notion that Darwinian selection happens not at the level of the individual, but at the level of our DNA. The implication: We evolved for only one purpose Ñ to serve our genes",
+        "description" : "As an evolutionary biologist, Richard Dawkins has broadened our understanding of the genetic origin of our species; as a popular author, he has helped lay readers understand complex scientific concepts. He's best-known for the ideas laid out in his landmark book The Selfish Gene and fleshed out in The Extended Phenotype: the rather radical notion that Darwinian selection happens not at the level of the individual, but at the level of our DNA. The implication: We evolved for only one purpose ï¿½ to serve our genes",
         "endTimestamp" : "2014-06-25T18:00:00Z",
         "hashtag" : "Tag1",
         "id" : "__keynote__",
@@ -247,27 +247,28 @@
         "mainTag" : "Tag1",
         "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/richard-dawkins-2003.jpg",
         "room" : "keynote",
-        "speakers" : [ "11613bcb-7edb-e311-b297-00155d5066d7" ],
+        "speakers" : [ "b5ca32e2-a5c6-e311-b297-00155d5066d7" ],
         "startTimestamp" : "2014-06-25T16:00:00Z",
         "tags" : [  ],
-        "title" : "Keynote 1",
-        "url" : "https://www.google.com/events/io",
-        "youtubeUrl" : "https://google.com/events/io"
+        "title" : "Richard's awesome talk",
+        "url" : "http://www.wiredforwonder.com",
+        "youtubeUrl" : "https://www.youtube.com/watch?v=VxGMqKCcN6A"
       },
       { "captionsUrl" : "",
         "color" : "#2a56c6",
-        "description" : "SourceGraph is a code search and analytics engine that indexes the world of open source code. In this session we'll see how a small team used Go to build the service.",
+        "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/img_drhappy2.jpg",
+        "description" : "Dr. Happy has spoken to audiences around Australia, on various topics, with one consistent theme. If we make the right choices we can be happier and more successful. Covering topics such as life purpose and meaning, healthy living, optimistic thinking, relationships and identifying & utilising core strengths, Dr. Happy's presentations provide listeners with the skills to thoroughly enjoy the present moment and experience authentic happiness.",
         "endTimestamp" : "2014-06-25T22:55:00Z",
         "hashtag" : "Tag2",
         "id" : "5e5915de-0ce1-e311-b297-00155d5066d7",
         "isLivestream" : false,
         "mainTag" : "Tag2",
         "room" : "dddsandbox",
-        "speakers" : [ "b5ca32e2-a5c6-e311-b297-00155d5066d7" ],
+        "speakers" : [ "11613bcb-7edb-e311-b297-00155d5066d7" ],
         "startTimestamp" : "2014-06-25T22:10:00Z",
         "tags" : [       ],
-        "title" : "Sourcegraph: A code search engine in Go",
-        "url" : "https://www.google.com/events/io/schedule/session/5e5915de-0ce1-e311-b297-00155d5066d7"
+        "title" : "How to be happier",
+        "url" : "http://www.wiredforwonder.com"
       }
     ],
   "speakers" : [
@@ -278,12 +279,11 @@
         "plusoneUrl" : "RichardDawkins.net",
         "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/richard-dawkins-2003.jpg"
       },
-      { "bio" : "Babak Pahlavan leads Product Management for Google Analytics. He oversees product & strategy for Mobile Apps, Universal Analytics, Google Tag Manager and Integrations with AdWords, AdMob, YouTube among other aspects of the business. \n\nPrior to Google, he was the co-founder and CEO of Clever Sense, an analytical context-aware recommendation engine, which was acquired by Google in December of 2011. \n\nIn 2012, Babak was selected as one of the 30 under 30 from Forbes in the technology category. Babak holds a masters degree in EE with focus on CS from Stanford University and Bachelors degree from from UC Berkeley in EE and CS.",
-        "company" : "Google",
+      { "bio" : "Dr. Sharp is one of Australia's leaders in the exciting new science of positive psychology and happiness.  In short, he is one of this country's leading Executive Coaches, a highly qualified consultant on matters relating to human behaviour and psychology (particularly the application of positive psychology principles within organisations and teams) and a popular and sought after public/corporate speaker.",
+        "company" : "Dr Happy",
         "id" : "11613bcb-7edb-e311-b297-00155d5066d7",
-        "name" : "Babak Pahlavan",
-        "plusoneUrl" : "https://plus.google.com/+BabakPahlavan",
-        "thumbnailUrl" : "http://storage.googleapis.com/iosched-updater-dev.appspot.com/images/speakers/__w-200-400-600-800-1000__/11613bcb-7edb-e311-b297-00155d5066d7.jpg"
+        "name" : "Tim Sharp",
+        "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/img_drhappy2.jpg"
       }
     ],
   "tags" : [ { "abstract" : "",
