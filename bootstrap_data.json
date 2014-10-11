@@ -1,17 +1,17 @@
 {
   "blocks" : [
     {
-      "end" : "2014-06-25T16:00:00Z",
-      "start" : "2014-06-25T14:00:00Z",
+      "end" : "2014-06-25T08:30:00Z",
+      "start" : "2014-06-25T07:30:00Z",
       "subtitle" : "Cafe, Level 1",
       "title" : "Breakfast",
       "type" : "break"
     },
     {
-      "end" : "2014-06-25T19:00:00Z",
-      "start" : "2014-06-25T18:00:00Z",
+      "end" : "2014-06-25T10:15:00Z",
+      "start" : "2014-06-25T11:00:00Z",
       "subtitle" : "",
-      "title" : "",
+      "title" : "Morning Tea",
       "type" : "free"
     }
   ],
