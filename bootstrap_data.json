@@ -3,8 +3,8 @@
     {
       "end" : "2014-06-25T08:30:00Z",
       "start" : "2014-06-25T07:30:00Z",
-      "subtitle" : "Cafe, Level 1",
-      "title" : "Breakfast",
+      "subtitle" : "Level 1",
+      "title" : "Registration",
       "type" : "break"
     },
     {
@@ -293,24 +293,6 @@
     }
   ],
   "sessions" : [
-    {
-      "captionsUrl" : "",
-      "color" : "#3f51b5",
-      "description" : "",
-      "endTimestamp" : "2014-06-25T08:30:00Z",
-      "hashtag" : "Tag1",
-      "id" : "__registration__",
-      "isLivestream" : true,
-      "mainTag" : "Tag1",
-      "photoUrl" : "http://www.a4fm.ac.za/wp-content/uploads/2013/10/5890730525_fd3b27c5de_z.jpg",
-      "room" : "keynote",
-      "speakers" : [],
-      "startTimestamp" : "2014-06-25T07:30:00Z",
-      "tags" : [],
-      "title" : "Registration",
-      "url" : "http://www.wiredforwonder.com",
-      "youtubeUrl" : ""
-    },
     {
       "captionsUrl" : "",
       "color" : "#ffc000",
