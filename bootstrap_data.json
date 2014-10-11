@@ -334,6 +334,26 @@
     {
       "captionsUrl" : "",
       "color" : "#3f51b5",
+      "description" : "1987 was the last time I wrote a book about a product (The Macintosh Way). After using Google+ for a few months, I felt the need to write another product-oriented book. This book explains “what the plus” makes Google+ as special as Macintosh.",
+      "endTimestamp" : "2014-06-25T09:15:00Z",
+      "hashtag" : "Tag1",
+      "id" : "__kawasaki__",
+      "isLivestream" : true,
+      "mainTag" : "Tag1",
+      "photoUrl" : "http://perq.com/wp-content/uploads/2013/10/guy.jpg",
+      "room" : "keynote",
+      "speakers" : [
+        "b5ca32e2-a5c6-e311-b297-00155d5066d5"
+      ],
+      "startTimestamp" : "2014-06-25T08:45:00Z",
+      "tags" : [],
+      "title" : "What the Plus!",
+      "url" : "http://www.guykawasaki.com/what-the-plus/",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#3f51b5",
       "description" : "As an evolutionary biologist, Richard Dawkins has broadened our understanding of the genetic origin of our species; as a popular author, he has helped lay readers understand complex scientific concepts. He's best-known for the ideas laid out in his landmark book The Selfish Gene and fleshed out in The Extended Phenotype: the rather radical notion that Darwinian selection happens not at the level of the individual, but at the level of our DNA. The implication: We evolved for only one purpose � to serve our genes",
       "endTimestamp" : "2014-06-25T18:00:00Z",
       "hashtag" : "Tag1",
@@ -394,6 +414,14 @@
       "name" : "Richard Dawkins",
       "plusoneUrl" : "RichardDawkins.net",
       "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/richard-dawkins-2003.jpg"
+    },
+    {
+      "bio" : "Former chief evangelist of Apple",
+      "company" : "Apple (former)",
+      "id" : "b5ca32e2-a5c6-e311-b297-00155d5066d5",
+      "name" : "Guy Kawasaki",
+      "plusoneUrl" : "http://www.guykawasaki.com",
+      "thumbnailUrl" : ""
     }
   ],
   "tags" : [
