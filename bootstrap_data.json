@@ -313,6 +313,26 @@
     },
     {
       "captionsUrl" : "",
+      "color" : "#ffffff",
+      "description" : "CEO Commonwealth Bank Australia",
+      "endTimestamp" : "2014-06-25T08:45:00Z",
+      "hashtag" : "Tag1",
+      "id" : "__welcome__",
+      "isLivestream" : true,
+      "mainTag" : "Tag1",
+      "photoUrl" : "http://resources3.news.com.au/images/2011/07/22/1226100/042283-ian-narev.jpg",
+      "room" : "keynote",
+      "speakers" : [
+        "b5ca32e2-a5c6-e311-b297-00155d5066d6"
+      ],
+      "startTimestamp" : "2014-06-25T08:30:00Z",
+      "tags" : [],
+      "title" : "Welcome",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
       "color" : "#3f51b5",
       "description" : "As an evolutionary biologist, Richard Dawkins has broadened our understanding of the genetic origin of our species; as a popular author, he has helped lay readers understand complex scientific concepts. He's best-known for the ideas laid out in his landmark book The Selfish Gene and fleshed out in The Extended Phenotype: the rather radical notion that Darwinian selection happens not at the level of the individual, but at the level of our DNA. The implication: We evolved for only one purpose � to serve our genes",
       "endTimestamp" : "2014-06-25T18:00:00Z",
@@ -353,12 +373,12 @@
   ],
   "speakers" : [
     {
-      "bio" : "Oxford professor Richard Dawkins has helped steer evolutionary science into the 21st century, and his concept of the meme contextualized the spread of ideas in the information age. In recent years, his devastating critique of religion has made him a leading figure in the New Atheism.",
+      "bio" : "CEO",
       "company" : "RDF",
-      "id" : "b5ca32e2-a5c6-e311-b297-00155d5066d7",
-      "name" : "Richard Dawkins",
-      "plusoneUrl" : "RichardDawkins.net",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/richard-dawkins-2003.jpg"
+      "id" : "b5ca32e2-a5c6-e311-b297-00155d5066d6",
+      "name" : "Ian Narev",
+      "plusoneUrl" : "commbank.com.au",
+      "thumbnailUrl" : ""
     },
     {
       "bio" : "Dr. Sharp is one of Australia's leaders in the exciting new science of positive psychology and happiness.  In short, he is one of this country's leading Executive Coaches, a highly qualified consultant on matters relating to human behaviour and psychology (particularly the application of positive psychology principles within organisations and teams) and a popular and sought after public/corporate speaker.",
@@ -366,6 +386,14 @@
       "id" : "11613bcb-7edb-e311-b297-00155d5066d7",
       "name" : "Tim Sharp",
       "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/timsharpLandscape.jpg"
+    },
+    {
+      "bio" : "Oxford professor Richard Dawkins has helped steer evolutionary science into the 21st century, and his concept of the meme contextualized the spread of ideas in the information age. In recent years, his devastating critique of religion has made him a leading figure in the New Atheism.",
+      "company" : "RDF",
+      "id" : "b5ca32e2-a5c6-e311-b297-00155d5066d7",
+      "name" : "Richard Dawkins",
+      "plusoneUrl" : "RichardDawkins.net",
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/richard-dawkins-2003.jpg"
     }
   ],
   "tags" : [
