@@ -13,6 +13,41 @@
       "subtitle" : "",
       "title" : "Morning Tea",
       "type" : "free"
+    },
+    {
+      "end" : "2014-06-25T14:00:00Z",
+      "start" : "2014-06-25T13:00:00Z",
+      "subtitle" : "",
+      "title" : "Lunch",
+      "type" : "free"
+    },
+    {
+      "end" : "2014-06-25T15:30:00Z",
+      "start" : "2014-06-25T16:15:00Z",
+      "subtitle" : "",
+      "title" : "Afternoon Tea",
+      "type" : "free"
+    },
+    {
+      "end" : "2014-06-26T11:00:00Z",
+      "start" : "2014-06-26T10:15:00Z",
+      "subtitle" : "",
+      "title" : "Morning Tea",
+      "type" : "free"
+    },
+    {
+      "end" : "2014-06-26T14:00:00Z",
+      "start" : "2014-06-26T13:00:00Z",
+      "subtitle" : "",
+      "title" : "Lunch",
+      "type" : "free"
+    },
+    {
+      "end" : "2014-06-26T15:30:00Z",
+      "start" : "2014-06-26T16:15:00Z",
+      "subtitle" : "",
+      "title" : "Afternoon Tea",
+      "type" : "free"
     }
   ],
   "experts" : [],
