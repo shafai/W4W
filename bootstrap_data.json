@@ -355,7 +355,7 @@
       "id" : "059D36CC-56B5-4577-AFBA-E136E7CB8F89",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kawasaki.jp",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kawasaki.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "6C5B74C6-4A8C-4A75-B88B-6F3C5F75E2BD"
@@ -377,7 +377,7 @@
       "id" : "F32AB03E-4801-43B4-8923-CBC903403BBF",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/andraka.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/andraka.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "2D553702-C3D4-4535-A671-DDDAC2AF3801"
@@ -399,7 +399,7 @@
       "id" : "CF1D5B4A-4D78-466C-A739-E936B2374BD0",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/simmons.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/simmons.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "78793791-9B46-4004-99AA-B36305353F71"
@@ -421,7 +421,7 @@
       "id" : "F9F52EE0-B715-4595-9A96-82851BCD1532",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/harris.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/harris.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "BC9669C5-57E0-463C-A0B6-72F579C9C5B5"
@@ -443,7 +443,7 @@
       "id" : "D6A63F0E-8B38-41AA-8252-BC37BD12F91D",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kawalec.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kawalec.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "98F8A551-FBA0-4E3C-B98D-640A0DCE4941"
@@ -465,7 +465,7 @@
       "id" : "66D34613-7A5A-40A5-AD96-B69E60EAFBC1",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kaldor.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kaldor.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "3130EF4E-085B-451C-B0CE-81B42F2657ED"
@@ -487,7 +487,7 @@
       "id" : "D2076C35-5693-4903-9A3F-49B3C5CA4E4A",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/medina.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/medina.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "043BB4B7-45A9-4303-BE7E-CD6040AB4A89"
@@ -509,7 +509,7 @@
       "id" : "6D2AA1B0-A364-4312-9ED1-D5E4C1DF638B",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/gleeson.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gleeson.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "187CEE5D-2D8C-4169-9C9D-E334DAB5F25F"
@@ -531,7 +531,7 @@
       "id" : "CD55B21A-EC5A-4E5C-B2A7-2752BE5AC922",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kerr.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kerr.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "C22FA651-92A7-4585-82DD-58359472402A"
@@ -553,7 +553,7 @@
       "id" : "71B6EFD9-AFA5-49B1-8B78-4082EE9F73BD",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/bell.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/bell.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "CEB200C6-538F-4D68-9DCB-ABEFDED635B5"
@@ -575,7 +575,7 @@
       "id" : "24022787-06BC-4C75-91E0-BA6AA8FE19A1",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/messenger.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/messenger.jpg",
       "room" : "playhouse",
       "speakers" : [
         "42181747-2AF0-4D0E-802F-A0A125E40CD0"
@@ -621,7 +621,7 @@
       "id" : "1F016EE2-A834-4FF2-8466-06485F0DF800",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/weinberg.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/weinberg.jpg",
       "room" : "playhouse",
       "speakers" : [
         "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
@@ -643,7 +643,7 @@
       "id" : "630A80AB-683E-4721-AEDB-6F4F0A477E29",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/gleeson.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gleeson.jpg",
       "room" : "pr1_nautical",
       "speakers" : [
         "187CEE5D-2D8C-4169-9C9D-E334DAB5F25F"
@@ -665,7 +665,7 @@
       "id" : "81AA4690-104A-49FC-822E-CB31810FE008",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/weinberg.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/weinberg.jpg",
       "room" : "pr1_nautical",
       "speakers" : [
         "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
@@ -731,7 +731,7 @@
       "id" : "62368876-5742-496C-BCFE-209213DCB235",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kerr.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kerr.jpg",
       "room" : "pr2_court_house",
       "speakers" : [
         "C22FA651-92A7-4585-82DD-58359472402A"
@@ -753,7 +753,7 @@
       "id" : "7A3F32AB-997A-4351-8225-72080E6BEB3B",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/huxley.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/huxley.jpg",
       "room" : "pr2_court_house",
       "speakers" : [
         "1B29B527-E769-46AA-AA8F-A5B8332032AE"
@@ -797,7 +797,7 @@
       "id" : "1AE60BB7-9680-49CC-BA5C-9EFB0FD7A890",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kawalec.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kawalec.jpg",
       "room" : "pr3_alice",
       "speakers" : [
         "98F8A551-FBA0-4E3C-B98D-640A0DCE4941"
@@ -819,7 +819,7 @@
       "id" : "0E798FB9-112A-4312-BD5A-C0DBDB8697AF",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/gleeson.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gleeson.jpg",
       "room" : "pr3_alice",
       "speakers" : [
         "187CEE5D-2D8C-4169-9C9D-E334DAB5F25F"
@@ -841,7 +841,7 @@
       "id" : "1AE1E147-1BCF-462A-B48A-9D4DABBEF072",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kerr.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kerr.jpg",
       "room" : "pr4_medieval",
       "speakers" : [
         "C22FA651-92A7-4585-82DD-58359472402A"
@@ -863,7 +863,7 @@
       "id" : "B4DAC2BC-EAC4-45FE-AE4A-D7ACF128C8C8",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/medina.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/medina.jpg",
       "room" : "pr4_medieval",
       "speakers" : [
         "043BB4B7-45A9-4303-BE7E-CD6040AB4A89"
@@ -914,7 +914,7 @@
       "id" : "6C5B74C6-4A8C-4A75-B88B-6F3C5F75E2BD",
       "name" : "Guy Kawasaki",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kawasaki.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kawasaki.jpg"
     },
     {
       "bio" : "<p>Jack Andraka was just a fifteen year old Maryland high school sophomore when\nhe invented an inexpensive early detection test for pancreatic, ovarian, and\nlung cancers. After a close family friend died of pancreatic cancer, Andraka\n(then a ninth grader) became interested in finding a better early-detection\ndiagnostic test. He learned that the lack of a rapid, low-cost early\nscreening method contributed to the poor survival rate among individuals\nwith pancreatic cancer. After thinking further about the problem, he came up\nwith a plan and a budget to put his ideas in motion.\nStill a teenager, Andraka’s groundbreaking results have earned him\ninternational recognition, most notably a 2014 Jefferson Award, the nation’s\nmost prestigious public service award, 1st place winner in the 2014 Siemens\nWe Can Change the World Challenge, a 2014 National Geographic Explorer\ngrant, the 2012 Intel ISEF Gordon Moore Award, the 2012 Smithsonian American\nIngenuity Youth Award, Advocate Magazine’s 40 under 40 award, and he’s also\nthe 2014 State of Maryland winner of the Stockholm Water Prize.</p>\n\n<p>In addition, Andraka was First Lady Michelle Obama’s personal guest at the\n2013 State of the Union Address. He speaks to audiences of youths and adults\nall across the globe about his personal story, research, and his ideas for\nSTEM education reform. He has been featured in several documentaries\nincluding Morgan Spurlock’s Sundance Film Festival entry, “You Don’t Know\nJack,” Linda Peters’ award winning film, “Just Jack,” Ken Burns’ upcoming\ndocumentary about cancer, as well as 60 Minutes, The Colbert Report, ABC\nWorld News with Diane Sawyer, CNN, BBC, Fox, Rede Record de Televisão, and\nradio, newspaper, and magazine articles around the world.</p>\n\n<p>Andraka speaks at a wide variety of locations including universities,\nschools, technology organizations and corporations, hospitals and the\neducation sector. His audiences range from youth-children and teens through\nto adults in the science and technology fields.</p>\n\n<p>Andraka now lives in Baltimore, Maryland. He is a member of the National\nJunior Wildwater Kayak team, a Life Scout and has won numerous awards in\nnational and international math competitions.</p>",
@@ -922,7 +922,7 @@
       "id" : "2D553702-C3D4-4535-A671-DDDAC2AF3801",
       "name" : "Jack Andraka",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/andraka.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/andraka.jpg"
     },
     {
       "bio" : "<p>Michelle Simmons is currently a Scientia professor and Laureate Fellow at the University of New South Wales. She obtained a double degree in physics and chemistry and was awarded a PhD in Physics from Durham University, UK in 1992. Her Postdoctoral position was as a Research Fellow in quantum electronics at the Cavendish Laboratory in Cambridge, UK where she gained an international reputation for her work in the discovery of the ‘0.7 feature’ and metallic behaviour in 2D Gas hole systems. In 1999, she was awarded a QEII Fellowship and came to Australia where she was a founding member of the Centre of Excellence for Quantum Computer Technology.</p>\n<p>Since then she has established a large research group dedicated to the fabrication of atomic-scale devices in silicon and germanium using the atomic precision of a scanning tunnelling microscope. Her group is the only group world-wide that can make atomically precise devices in silicon: they have developed the world’s first single atom transistor and the thinnest conducting doped wires in silicon. She has published more than 360 papers in refereed journals with an h-index of 40 including 27 Physical Review Letters and papers in Nature, Science, Nature Materials, Nature Physics and Nature Nanotechnology. She has been awarded two Federation Fellowships and is currently an ARC Laureate Fellow. In 2005 she was awarded the Pawsey Medal by the Australian Academy of Science becoming one of the youngest elected Fellows of this Academy in 2006. In 2012 she was named NSW Scientist of the Year and in 2014 became an elected Fellow of the American Academy of Arts and Science.</p>",
@@ -930,7 +930,7 @@
       "id" : "78793791-9B46-4004-99AA-B36305353F71",
       "name" : "Professor Michelle Simmons",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/simmons.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/simmons.jpg"
     },
     {
       "bio" : "<p>Author of the international best-selling self-help book, The Happiness Trap, is a world-renowned trainer of Acceptance & Commitment Therapy (ACT).</p>\n<p>Russ’s background is in medicine. As a GP he became increasingly interested in the psychological aspects of health and wellbeing, and increasingly disenchanted with writing prescriptions. Ultimately this interest led to a total career change. He now works in two different, yet complementary roles – as a therapist and as a coach – and has provided ACT training for over 15,000 Australian therapists, coaches, counsellors, doctors, and other health professionals.</p>\n\n<p>Russ has authored six books and is also the co-author of a further two self-help books. The Happiness Trap is the best-selling ACT book in the world, so far translated into twenty-two languages.</p>",
@@ -938,7 +938,7 @@
       "id" : "BC9669C5-57E0-463C-A0B6-72F579C9C5B5",
       "name" : "Dr Russ Harris",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/harris.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/harris.jpg"
     },
     {
       "bio" : "Andrzej Kawalec is CTO for HP Enterprise Security. He is responsible for HP’s Information Security strategy, solutions, portfolio and market facing activity. He leads a global research and innovation team, with a particular focus upon Cloud, Consumerisation, Cyber Security and the Business Risks surrounding information security systems, policies, users and process. Prior to this, Andrzej has spent 18 years at some of the world’s largest and smallest asset management and IT companies, including Siemens, Compaq and Digital. His experience with start-ups and niche advisory gives an intimate knowledge of both the macro and micro challenges facing organizations today.",
@@ -946,7 +946,7 @@
       "id" : "98F8A551-FBA0-4E3C-B98D-640A0DCE4941",
       "name" : "Andrej Kawalec",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kawalec.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kawalec.jpg"
     },
     {
       "bio" : "<p>John Kaldor AM is a dedicated collector, patron and supporter of contemporary art. He has been collecting and commissioning art since the late 1950s and since 1969 has shared his love of art with the Australian public through his series of art projects. Kaldor has brought the most innovative and groundbreaking art to Australia for over 40 years through what is now the not-for-profit organisation Kaldor Public Art Projects, listed since 2004 on the national Register of Cultural Organisations.</p>\n<p>Kaldor has participated on the boards and international councils of many art organisations over the years, including P.S.1 in New York, the Tate Modern, London, the Biennale of Sydney, and as chair of the Museum of Contemporary Art, Sydney. He was selected as commissioner for the Australian Pavilion at the 51st Venice Biennale in 2005 and again for the 52nd Venice Biennale in 2007. Kaldor was a founding member of the board of the Power Institute of Contemporary Art, a trustee of the Art Gallery of New South Wales, Sydney, and is currently on the International Council of the Museum of Modern Art, New York.</p>",
@@ -954,7 +954,7 @@
       "id" : "3130EF4E-085B-451C-B0CE-81B42F2657ED",
       "name" : "John Kaldor",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kaldor.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kaldor.jpg"
     },
     {
       "bio" : "John J. Medina is a developmental molecular biologist with special research interests in the isolation and characterization of genes involved in human brain development and the genetics of psychiatric disorders.",
@@ -962,7 +962,7 @@
       "id" : "043BB4B7-45A9-4303-BE7E-CD6040AB4A89",
       "name" : "Dr John Medina",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/medina.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/medina.jpg"
     },
     {
       "bio" : "Dr Michael Hewitt-Gleeson is known as “the father of x10 thinking”. He is an Australian gentleman, a world authority on lateral thinking. Scientist. Author. Intellectual philanthropist. Vaticanologist.",
@@ -970,7 +970,7 @@
       "id" : "187CEE5D-2D8C-4169-9C9D-E334DAB5F25F",
       "name" : "Dr Michael Hewitt Gleeson",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/gleeson.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gleeson.jpg"
     },
     {
       "bio" : "<p>Dr Fiona Kerr is a specialist in systems and neural complexity at the University of Adelaide, and has been the Director of FK Consulting for 25 years working in the areas of organisational creativity, transformation and futurising across both public and private sectors.</p>\n<p>This work includes advising governments in Australia and Asia on creative bureaucracy and the government’s role in fostering innovative ecosystems, increasing cognitive creative capacity in both educational and organisational settings, investigating complex systems and creativity with various European bodies, and even looking at the ideation process in Cirque du Soleil!</p>\n\n<p>Whilst in Montreal Fiona will also start a neuroscience research project on the mapping of complex thought.</p>\n\n<p>She is currently writing an airport book on the neuroscience of leading, collaboration and creativity, to be called the brain that changes each other.</p>",
@@ -978,7 +978,7 @@
       "id" : "C22FA651-92A7-4585-82DD-58359472402A",
       "name" : "Dr Fiona Kerr",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/kerr.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kerr.jpg"
     },
     {
       "bio" : "<p>John is Co-Artistic Director of Bell Shakespeare and one of Australia’s most acclaimed theatre personalities. In a career of acting and directing, John has been instrumental in shaping the Australian theatre industry as we know it. After graduating from Sydney University in 1962 John worked for the Old Tote Theatre Company, all of Australia’s state theatre companies and was an Associate Artist of the Royal Shakespeare Company in the United Kingdom. As co-founder of Sydney’s Nimrod Theatre Company, John presented many productions of landmark Australian plays including David Williamson’s Travelling North, The Club and The Removalists. He also initiated an Australian Shakespeare style with Nimrod productions such as Much Ado About Nothing and Macbeth.</p>\n\n<p>In 1990 John founded The Bell Shakespeare Company where his productions have included The Duchess Of Malfi, Much Ado About Nothing, Hamlet, Romeo And Juliet, The Taming Of The Shrew, Richard 3, Pericles, Henry 4, Henry 5, Julius Caesar, Antony And Cleopatra, The Comedy Of Errors, Wars Of The Roses, Measure For Measure, Macbeth and As You Like It, as well as Goldoni’s The Servant Of Two Masters, Gogol’s The Government Inspector and Ben Jonson’s The Alchemist. The Rake’s Progress for the Victorian Opera and has also directed a production of Madame Butterfly for an Oz Opera national tour. John is at present Co-directing a production of Monkey with Kim Carpenter for The Theater of Image.</p>\n\n<p>John is an Officer of the Order of Australia and the Order of the British Empire. He has an Honorary Doctorate of Letters from the Universities of Sydney, New South Wales and Newcastle. In 1997 he was named by the National Trust of Australia as one of Australia’s Living Treasures. In 2003 the Australia Business Arts Foundation awarded John the Dame Elisabeth Murdoch Cultural Leadership Award. His many awards include a Producers and Directors Guild Award for Lifetime Achievement, the 2009 JC Williamson Award for extraordinary contribution to Australia’s live entertainment industry and the 2010 Sydney Theatre Award for Lifetime Achievement in recognition of his extraordinary career as an actor, director and producer.</p>",
@@ -986,7 +986,7 @@
       "id" : "CEB200C6-538F-4D68-9DCB-ABEFDED635B5",
       "name" : "John Bell AO OBE",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/bell.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/bell.jpg"
     },
     {
       "bio" : "<p>Lisa Messenger is the vibrant, game-changing CEO and creative director of The Messenger Group, as well as founder and editor-in-chief of The Collective magazine – an entrepreneurial lifestyle magazine distributed into over 33 countries with a mandate to disrupt, challenge and inspire. In addition, she has worked globally in events, sponsorship, marketing, PR and publishing.</p>\n\n<p>Lisa has authored and co-authored over a dozen books and The Messenger Group has custom published more than 400 books for companies and individuals. Lisa has been a regular commentator on business, entrepreneurialism and property and has sat on a number of boards including the Australian Businesswomen’s Network and Publishers Australia.</p>",
@@ -994,7 +994,7 @@
       "id" : "42181747-2AF0-4D0E-802F-A0A125E40CD0",
       "name" : "Lisa Messenger",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/messenger.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/messenger.jpg"
     },
     {
       "bio" : "<p>For more than 25 years Jane has built a career across blue chip Technology, Media and Telecommunications organisations in Australia and internationally. She started as a product and systems engineer at Microsoft in early 1989, then spanning into development, partner, sales and consumer marketing roles over the next sixteen years. Time running mass market product group at Vodafone, then led to a role as CEO of Fairfax Digital (Metro Media) , overseeing the online news and entertainment businesses encompassing product, marketing, mobile, editorial, development and integration of acquisitions.</p>\n\n<p>In her current role at Pandora, she has been charged with growing the first international subsidiaries for Pandora – establishing a broad base of streaming radio listeners and implementing the commercial model and long term market approach. Pandora recently announced two million registered users in less than 18 months, more than fifty local auto and device integrations and a rapidly growing base of engaged and loyal users.</p>",
@@ -1002,7 +1002,7 @@
       "id" : "1B29B527-E769-46AA-AA8F-A5B8332032AE",
       "name" : "Jane Huxley",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/huxley.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/huxley.jpg"
     },
     {
       "bio" : "<p>Dr Catriona Wallace is an Entrepreneur, Customer Experience Futurist and Chief Executive of three Sydney-based businesses:</p>\n<ul><li>Fifth Quadrant, Australia’s largest independent Customer Experience Strategy, Design& Research firm;</li>\n<li>ACA Research, a market research company; and</li>\n<li>Flamingo Ventures, a celebrated tech start-up, one of the world’s first Vendor Relationship Management (VRM) companies.</li>\n</ul>\n<p>Dr Wallace has a PhD in Leadership & Organisational Behaviour from the Australian Graduate School of Management and is a well published author and internationally renowned public speaker. Catriona is also the Founder of philanthropic organisations:</p>\n<ul>\n<li>Indigo Express Fund – Indigenous literacy programs; Kids in Philanthropy – developing a social conscience and practice of giving in kids for kids;</li>\n<li>Out and Up – an employment program for women prisoners and Asylum Seekers; and</li>\n<li>RAWomen – an innovative online mentoring forum for women.</li></ul>",
@@ -1018,7 +1018,7 @@
       "id" : "7C3E93A5-EB65-4886-8234-4F5BCF728A7D",
       "name" : "Melissa Weinberg",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/weinberg.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/weinberg.jpg"
     },
     {
       "bio" : "<p>Cathie is Managing Partner of Epic Pharmacy, one of Australia’s largest pharmacy service providers to the hospital, oncology and aged care sector. She is also one of Australia’s first Google Glass Explorers.</p>\n\n<p>Cathie is a strong advocate of digital healthcare and the role wearable technology can play in actively engaging society to manage their own health outcomes. She is focused on delivering digital solutions in a highly paper-driven Australian healthcare sector. These solutions will enable a more collaborative and seamless approach to care, with practitioners and patients able to access health information and seek consultation via web-based applications.</p>\n\n<p>Cathie was named one of the Top 100 Women of Influence by the Australian Financial Review in 2013, won a National Telstra Business Women’s Award in 2011 and was recognised by Monash University with a Distinguished Alumni Award for Professional Achievement in 2012.</p>",
@@ -1026,7 +1026,7 @@
       "id" : "F1AD599B-95AC-43F1-AD5E-361B722C8D25",
       "name" : "Cathy Reid",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/reid.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/reid.jpg"
     },
     {
       "bio" : "<p>Anthony Bertini has extensive experience in publishing and new media, including 15 years in sales and publishing roles for ACP Publishing and ICP Magazines.</p>\n<p>More recently he has founded and led media advisory companies, including BMC Media and Thumper One Ltd, a corporate advisory practice that assists with investment and capital-raising in new-technology start-ups.</p>\n\n<p>Anthony has also been a Director of the Biennale of Sydney since 2004.</p>",
@@ -1066,7 +1066,7 @@
       "id" : "6A8D203B-814F-419C-8919-A55AFDC5351A",
       "name" : "Andreas Weigend",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/weigend.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/weigend.jpg"
     },
     {
       "bio" : "<p>Jitin has over 18 years of industry experience and is currently the CEO – FT Services, based out of London.</p>\n<p>Prior to Polaris, he spent more than 10 years at Infosys with stints in the US, UK and Continental Europe, serving as the Head of Sales for Europe, Middle East & Africa, and then as Head of Financial Services for Europe. He was a member of the Tier-1 leadership team at Infosys.</p>\n\n<p>Prior to joining Infosys in 1999, Jitin was with Citibank in India. He has rich experience across multiple dimensions of the banking industry including FX and derivatives trading, selling risk management solutions to corporate clients, leading BPR teams responsible for re-engineering the bank’s core systems and processes, and running back-office operations.</p>\n\n<p>Jitin is also a successful entrepreneur and has set up a technology innovation company.</p>\n\n<p>Jitin holds an MBA in Finance & Strategy from the Indian Institute of Management (Calcutta) and a BE in Electronics from Thapar Institute of Engineering & Technology.</p>",
@@ -1090,7 +1090,7 @@
       "id" : "6258EFBF-8968-44AB-A48F-6247DB46855D",
       "name" : "Andrew Fursman",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/fursman.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/fursman.jpg"
     },
     {
       "bio" : "<p>Tim Sharp is an internationally acclaimed 26 year-old artist from Brisbane. Diagnosed with Autism at age three the prognosis was that his mother should “put him away and forget about him.” Ignoring this prognosis, Judy Sharp, a single mother of two young sons tried everything she could think of to communicate with her son, including drawing.</p>\n\n<p>At age eleven Tim created his own super hero, Laser Beak Man. Tim is the first person in the world with autism to have his art turned into an animated television series screening on the ABC and internationally. In 2012 a film about Tim was shown in the Metropolitan Museum of Art in New York City. His art is sold to collectors from around the world. In 2012 Tim’s collaboration with a young rock band from Nashville Tennessee inspired a music festival raising autism awareness to commence in Nashville. In 2014 Tim received a standing ovation after giving his TEDx talk to a capacity crowd at the Sydney Opera House. In June 2015 Laser Beak Man the stage production will open at the New Victory Theatre, Broadway, New York City. Love and art have given Tim and Judy happiness that they could never have dreamt possible.</p>",
@@ -1098,7 +1098,7 @@
       "id" : "0AC4E5EC-CC1E-491F-9FE3-A3C204EA0519",
       "name" : "Tim and Judy Sharp",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/sharp.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/sharp.jpg"
     },
     {
       "bio" : "2013 South Australian Entrepreneur of the Year, magician and professional speaker Vinh Giang is fascinated with the psychology behind the mysterious art of magic, and has devoted himself to understanding the ways in which people are fooled not only by illusions, but by the tricks that life plays on us, and that we play on ourselves.",
@@ -1106,7 +1106,7 @@
       "id" : "338791A4-0D80-421E-BF73-6DF58ED48E23",
       "name" : "Vinh Giang",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/vinh.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/vinh.jpg"
     },
     {
       "bio" : "<p>Matt Jackson is a poet, riddler, storyteller, business leader, husband to Leah and father to Rip. In 2014 Matt has played with audiences at TEDX, VIVID Ideas and toured Australia and New Zealand with Adobe to pose the question, \"Why make anything without feeling\"?</p>\n\n<p>It is Matt's mission to bridge the gap between Art and Commerce and it is his purpose to help people place greater value on the affect of their actions than the effect.</p>",
@@ -1114,7 +1114,7 @@
       "id" : "6A5B5126-99F4-4AC8-B2CF-507000F022D4",
       "name" : "Matt Jackson",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/jackson.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/jackson.jpg"
     },
     {
       "bio" : "<p>Ms. Liesl Capper is currently VP of Product/Strategy for the Watson Group at IBM. Her career at IBM recently started through the acquisition of Cognea Artificial Intelligence. Capper was Co-Founder, Chief Executive Officer, and Director of Cognea Artificial Intelligence. Capper has extensive international business experience as the Chief Executive Officer. She has been managing growth businesses for over 15 years.</p>\n\n<p>Liesl has helped lead Cognea (formerly known as MyCyberTwin) from a research and development company, to a market leader in the provision of high-end customer support solutions to clients like NAB, HP, NASA, Westpac and others. Before Cognea Artificial Intelligence, Capper was founder and Chief Executive Officer of Mooter. Mooter is a stock-exchange listed company specializing in search and behavioral targeting. While leading Mooter, she raised millions in venture capital, created patents and defensible technology, managed the expansion into US and Asian markets, secured deals with major clients including Yahoo! and Fairfax; and prepared the company for listing. Prior to Mooter, while in her twenties, Capper built a multi-national education franchise to 38 branches in four countries. She took the business online, trained her management to run it in 2000, and it is still growing today.</p>\n\n<p>Capper holds a bachelors degree in Psychology & Education, and has a Post-Graduate Certificate in Venture Development. She is also a graduate of the Australian Institute of Company Directors, and is a regular speaker at local and international conferences. Capper was honored with the following awards and recognition:</p>\n\n<ul><li>Telstra Business Women’s Awards: Winner of the Nokia Business Innovation Award</li>\n<li>2012 iAwards: Winner, ICT Woman of the Year</li>\n<li>Honorary Member of the Australian Computer Society (ACS)</li>\n<li>Pearcey Hall of Fame for IT</li>\n</ul>",
@@ -1122,7 +1122,7 @@
       "id" : "18F0F0F9-5C7C-4407-A81C-8AC596F12742",
       "name" : "Leisl Capper",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/capper.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/capper.jpg"
     },
     {
       "bio" : "<p>Richard Dawkins, noted evolutionary biologist and atheist, was voted Prospect magazine’s #1 World Thinker in 2013.</p>\n\n<p>He has published eleven books, all still in print, including The Selfish Gene, the blockbuster bestseller The God Delusion, Unweaving the Rainbow, Science, Delusion and the Appetite for Wonder and his magnum opus The Ancestor’s Tale.</p>\n\n<p>Dawkins is a fellow of both the Royal Society and the Royal Society of Literature. He was the inaugural holder of the Simonyi Chair for the Public Understanding of Science at Oxford University and is the recipient of numerous degrees and awards, including the International Cosmos Prize of Japan.</p>",
@@ -1130,7 +1130,7 @@
       "id" : "D6FCDD1E-34DA-412C-B01D-CCB5A44CECDE",
       "name" : "Richard Dawkins",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/dawkins.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/dawkins.jpg"
     },
     {
       "bio" : "<p>Paul Muller leads the global IT management evangelist team within the Software business at HP. In this role, Muller heads the team responsible for fostering HP’s participation in the IT management community, contributing to and communicating best practices in helping IT perform better. Previously, Muller was global vice president of strategic marketing for HP Software, responsible for leading the development and execution of HP’s IT management portfolio go-to-market strategy.</p>",
@@ -1138,7 +1138,7 @@
       "id" : "3C768502-4AD3-4B9C-BB87-F9879A508BB6",
       "name" : "Paul Muller",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/muller.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/muller.jpg"
     },
     {
       "bio" : "<p>Mary Coustas is a writer/performer well known for her performance in Wogs out of Work and for her character Effie developed for the high rating TV sitcom Acropolis Now.\nShe won a Best Comedy Performer Logie Award for performing the character Effie.</p>\n\n<p>Back on stage, she then went on to appear in the record breaking theatrical shows Wog A Rama and her one woman show Waiting for Effie, which toured nationally throughout Australia. Mary joined the cast of Sylvia for Sydney Theatre Company, gaining high praise for portraying a dog on stage.</p>\n\n<p>Mary’s other TV Credits include Skirts, Wildside, Grass Roots and The Secret Life of Us and recently Rake 2.</p>\n\n<p>She also earned herself an AFI Nomination for Best Supporting Actress for her role in Mull and appeared in Nirvana Street Murder and Hercules Returns.</p>\n\n<p>Mary has written for, and performed in, her TV show Greeks on The Roof , based on her character Effie’s family home TV Studio.</p>\n\n<p>As Effie has so much to say, Mary allowed her to write a book, Effie’s Guide To Being Up Yourself , which has been published and acclaimed for tackling youth self esteem.</p>\n\n<p>Most recently Mary’s book All I Know was published by Allen and Unwin and touched the heart’s of the nation after her appearance on 60 Minutes.</p>\n\n<p>Effie continues to wow audiences with her latest show A Date With Effie.</p>",
@@ -1146,7 +1146,7 @@
       "id" : "E17E00B8-3F67-4C39-BA73-5E5FCE7AC7F3",
       "name" : "Mary Coustas",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/coustas.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/coustas.jpg"
     },
     {
       "bio" : "<p>Wendy McCarthy’s current portfolio reflects her passions. She chairs headspace – Australia’s National Youth Mental Health Foundation, Circus Oz, McGrath Estate Agents and Pacific Friends of the Global Fund.</p>\n\n<p>She is an experienced manager and company director who began her career as a secondary school teacher and is passionate about the power of education. For over four decades she has been a teacher, educator and change agent in Australian public life. She has worked with government, corporations and community based organisations in education, family planning, human rights, broadcasting and media, public health, heritage and overseas aid and development. She has held national and international leadership roles in many of these areas. It is this eclectic combination that gives her a unique profile and network nationally and internationally.</p>\n\n<p>In 1995 she established her national consulting business McCarthy Mentoring which specialised in providing mentors to major corporations, the public sector and not for profit organisations.</p>\n\n<p>In 1989 she was appointed an Officer of the Order of Australia for outstanding contributions to community affairs, women’s affairs and the Bicentennial celebrations.</p>\n\n<p>In 1996 she was awarded an Honorary Doctorate from the University of South Australia and in 2003 she was awarded a Centenary of Federation medal for business leadership and in 2005 she was nominated by the Sydney Morning Herald as one of Australia’s Top 100 Public Intellectuals.</p>",
@@ -1162,7 +1162,7 @@
       "id" : "AC353366-E645-40A1-82A1-F9C22FE5F1BF",
       "name" : "Dr. Jordan Nguyen",
       "plusoneUrl" : "",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/nguyen.jpg"
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/nguyen.jpg"
     },
     {
       "bio" : "<p>Alden joined the Commonwealth Bank of Australia on 23 June 2008 as Group Chief Risk Officer. Alden provides leadership in ensuring effective risk management and risk governance across the Bank and also helps govern the Group through membership on the Bank’s Executive Committee.</p>\n\n<p>Prior to joining the Commonwealth Bank, Alden led First Manhattan Consulting Group’s (FMCG) risk management, MIS and mortgage banking practice areas for 15 plus years, and was FMCG’s lead consulting partner between 2000 and 2008. Over his 18 years of consulting with First Manhattan, Alden has advised more than 100 banks globally on risk, strategy, mergers and performance measurement.</p>\n\n<p>Alden has a Ph.D. with honors from Tulane University and did post graduate work at MIT under a grant from the National Science Foundation.</p>\n\n<p>Alden is a Board Member of the Centre for International Finance and Regulation, and a Board Member of Bell Shakespeare.</p>",
