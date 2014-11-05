@@ -1,8 +1,8 @@
 {
   "blocks" : [
     {
-      "end" : "2014-06-25T08:30:00Z",
-      "start" : "2014-06-25T07:30:00Z",
+      "end" : "2014-11-26T08:30:00Z",
+      "start" : "2014-11-26T07:30:00Z",
       "subtitle" : "Level 1",
       "title" : "Registration",
       "type" : "break"
@@ -15,38 +15,59 @@
       "type" : "free"
     },
     {
-      "end" : "2014-06-25T14:00:00Z",
-      "start" : "2014-06-25T13:00:00Z",
+      "end" : "2014-11-26T14:00:00Z",
+      "start" : "2014-11-26T13:00:00Z",
       "subtitle" : "",
       "title" : "Lunch",
       "type" : "free"
     },
     {
-      "end" : "2014-06-25T15:30:00Z",
-      "start" : "2014-06-25T16:15:00Z",
+      "end" : "2014-11-26T15:30:00Z",
+      "start" : "2014-11-26T16:15:00Z",
       "subtitle" : "",
       "title" : "Afternoon Tea",
       "type" : "free"
     },
     {
-      "end" : "2014-06-26T11:00:00Z",
-      "start" : "2014-06-26T10:15:00Z",
+      "end" : "2014-11-26T17:45:00Z",
+      "start" : "2014-11-26T17:15:00Z",
+      "subtitle" : "",
+      "title" : "Entertainment",
+      "type" : "free"
+    },
+    {
+      "end" : "2014-11-26T17:45:00Z",
+      "start" : "2014-11-26T18:45:00Z",
+      "subtitle" : "",
+      "title" : "Delegate Party",
+      "type" : "free"
+    },
+    {
+      "end" : "2014-11-27T11:00:00Z",
+      "start" : "2014-11-27T10:15:00Z",
       "subtitle" : "",
       "title" : "Morning Tea",
       "type" : "free"
     },
     {
-      "end" : "2014-06-26T14:00:00Z",
-      "start" : "2014-06-26T13:00:00Z",
+      "end" : "2014-11-27T14:00:00Z",
+      "start" : "2014-11-27T13:00:00Z",
       "subtitle" : "",
       "title" : "Lunch",
       "type" : "free"
     },
     {
-      "end" : "2014-06-26T15:30:00Z",
-      "start" : "2014-06-26T16:15:00Z",
+      "end" : "2014-11-27T15:30:00Z",
+      "start" : "2014-11-27T16:15:00Z",
       "subtitle" : "",
       "title" : "Afternoon Tea",
+      "type" : "free"
+    },
+    {
+      "end" : "2014-11-27T17:45:00Z",
+      "start" : "2014-11-27T18:45:00Z",
+      "subtitle" : "",
+      "title" : "Tea and Biscuits (No party 2nd day)",
       "type" : "free"
     }
   ],
@@ -272,172 +293,891 @@
   "partners" : [],
   "rooms" : [
     {
-      "id" : "dddsandbox",
-      "name" : "Design,Develop,Distribute",
-      "original_id" : "f770c62b-2cda-e311-b297-00155d5066d7"
+      "id" : "main_theatre",
+      "name" : "Main Theatre",
+      "original_id" : "584B27DF-9294-4FA9-946F-6903684A2E7D"
     },
     {
-      "id" : "room8",
-      "name" : "Room 8",
-      "original_id" : "0be884ab-5cd5-e311-b297-00155d5066d7"
+      "id" : "playhouse",
+      "name" : "Playhouse",
+      "original_id" : "5F200B69-52E4-48D2-84BA-E1C0B4325654"
     },
     {
-      "id" : "room4",
-      "name" : "Room 4",
-      "original_id" : "997c3886-5cd5-e311-b297-00155d5066d7"
+      "id" : "pr1_nautical",
+      "name" : "Performance room 1 - Nautical",
+      "original_id" : "497D5E2C-7DC0-4E99-8CDA-2187D9A0FBDA"
     },
     {
-      "id" : "keynote",
-      "name" : "Level 3",
-      "original_id" : "a297ea70-e2e1-e311-b297-00155d5066d7"
+      "id" : "pr2_court_house",
+      "name" : "Performance room 2 - Court House",
+      "original_id" : "1A4DB3EC-AECE-4EBB-8BAB-82FDB547E1C9"
     },
     {
-      "id" : "room3",
-      "name" : "Room 3",
-      "original_id" : "67387d3c-5ea9-e311-b30e-00155d5066d7"
+      "id" : "pr3_alice",
+      "name" : "Performance room 3 - Alice in Wonderland",
+      "original_id" : "B4551D74-3CE2-44BA-AA4D-3F6386D49C61"
     },
     {
-      "id" : "workshops",
-      "name" : "Workshops",
-      "original_id" : "7abd1439-30da-e311-b297-00155d5066d7"
-    },
-    {
-      "id" : "room2",
-      "name" : "Room 2",
-      "original_id" : "98523486-e989-e311-84db-00155d5066d7"
-    },
-    {
-      "id" : "room6",
-      "name" : "Room 6",
-      "original_id" : "07e884ab-5cd5-e311-b297-00155d5066d7"
-    },
-    {
-      "id" : "room1",
-      "name" : "Room 1",
-      "original_id" : "428c4d56-3988-e311-84db-00155d5066d7"
-    },
-    {
-      "id" : "room5",
-      "name" : "Room 5",
-      "original_id" : "05e884ab-5cd5-e311-b297-00155d5066d7"
-    },
-    {
-      "id" : "room7",
-      "name" : "Room 7",
-      "original_id" : "09e884ab-5cd5-e311-b297-00155d5066d7"
+      "id" : "pr4_medieval",
+      "name" : "Performance rooom 4  -Medievil",
+      "original_id" : "584B27DF-9294-4FA9-946F-6903684A2E7D"
     }
   ],
   "sessions" : [
     {
       "captionsUrl" : "",
-      "color" : "#ffc000",
-      "description" : "CEO Commonwealth Bank Australia",
-      "endTimestamp" : "2014-06-25T08:45:00Z",
-      "hashtag" : "Tag1",
-      "id" : "__welcome__",
-      "isLivestream" : true,
-      "mainTag" : "Tag1",
-      "photoUrl" : "http://resources3.news.com.au/images/2011/07/22/1226100/042283-ian-narev.jpg",
-      "room" : "keynote",
+      "color" : "#f1850f",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T08:45:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "D6A63F0E-8B38-41AA-8252-BC37BD12F91D",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
       "speakers" : [
-        "b5ca32e2-a5c6-e311-b297-00155d5066d6"
+        "4138B188-DB80-49A5-B933-9FE216FA0D35"
       ],
-      "startTimestamp" : "2014-06-25T08:30:00Z",
-      "tags" : [],
+      "startTimestamp" : "2014-11-26T08:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
       "title" : "Welcome",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
     {
       "captionsUrl" : "",
-      "color" : "#3f51b5",
-      "description" : "1987 was the last time I wrote a book about a product (The Macintosh Way). After using Google+ for a few months, I felt the need to write another product-oriented book. This book explains “what the plus” makes Google+ as special as Macintosh.",
-      "endTimestamp" : "2014-06-25T09:15:00Z",
-      "hashtag" : "Tag1",
-      "id" : "__kawasaki__",
-      "isLivestream" : true,
-      "mainTag" : "Tag1",
-      "photoUrl" : "http://perq.com/wp-content/uploads/2013/10/guy.jpg",
-      "room" : "keynote",
+      "color" : "#ffff01",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T09:15:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "059D36CC-56B5-4577-AFBA-E136E7CB8F89",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
       "speakers" : [
-        "b5ca32e2-a5c6-e311-b297-00155d5066d5"
+        "6C5B74C6-4A8C-4A75-B88B-6F3C5F75E2BD"
       ],
-      "startTimestamp" : "2014-06-25T08:45:00Z",
-      "tags" : [],
-      "title" : "What the Plus!",
-      "url" : "http://www.guykawasaki.com/what-the-plus/",
+      "startTimestamp" : "2014-11-26T08:45:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
     {
       "captionsUrl" : "",
-      "color" : "#3f51b5",
-      "description" : "As an evolutionary biologist, Richard Dawkins has broadened our understanding of the genetic origin of our species; as a popular author, he has helped lay readers understand complex scientific concepts. He's best-known for the ideas laid out in his landmark book The Selfish Gene and fleshed out in The Extended Phenotype: the rather radical notion that Darwinian selection happens not at the level of the individual, but at the level of our DNA. The implication: We evolved for only one purpose � to serve our genes",
-      "endTimestamp" : "2014-06-25T18:00:00Z",
-      "hashtag" : "Tag1",
-      "id" : "__keynote__",
-      "isLivestream" : true,
-      "mainTag" : "Tag1",
-      "photoUrl" : "http://jto.s3.amazonaws.com/wp-content/uploads/2013/09/wn20130921f3a.jpg",
-      "room" : "keynote",
+      "color" : "#34eb3e",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T09:45:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "F32AB03E-4801-43B4-8923-CBC903403BBF",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
       "speakers" : [
-        "b5ca32e2-a5c6-e311-b297-00155d5066d7"
+        "2D553702-C3D4-4535-A671-DDDAC2AF3801"
       ],
-      "startTimestamp" : "2014-06-25T16:00:00Z",
-      "tags" : [],
-      "title" : "Richard's awesome talk",
+      "startTimestamp" : "2014-11-26T09:15:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
       "url" : "http://www.wiredforwonder.com",
-      "youtubeUrl" : "https://www.youtube.com/watch?v=VxGMqKCcN6A"
+      "youtubeUrl" : ""
     },
     {
       "captionsUrl" : "",
-      "color" : "#637e53",
-      "photoUrl" : "http://i1.wp.com/startup88.com/wp-content/uploads/2014/08/Dr-Tim1.jpeg?resize=274%2C184",
-      "description" : "Dr. Happy has spoken to audiences around Australia, on various topics, with one consistent theme. If we make the right choices we can be happier and more successful. Covering topics such as life purpose and meaning, healthy living, optimistic thinking, relationships and identifying & utilising core strengths, Dr. Happy's presentations provide listeners with the skills to thoroughly enjoy the present moment and experience authentic happiness.",
-      "endTimestamp" : "2014-06-25T22:55:00Z",
-      "hashtag" : "Tag2",
-      "id" : "5e5915de-0ce1-e311-b297-00155d5066d7",
+      "color" : "#01b0f0",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T10:15:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "CF1D5B4A-4D78-466C-A739-E936B2374BD0",
       "isLivestream" : false,
-      "mainTag" : "Tag2",
-      "room" : "dddsandbox",
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
       "speakers" : [
-        "11613bcb-7edb-e311-b297-00155d5066d7"
+        "78793791-9B46-4004-99AA-B36305353F71"
       ],
-      "startTimestamp" : "2014-06-25T22:10:00Z",
-      "tags" : [],
-      "title" : "How to be happier",
-      "url" : "http://www.wiredforwonder.com"
+      "startTimestamp" : "2014-11-26T09:45:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#f1850f",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "F9F52EE0-B715-4595-9A96-82851BCD1532",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "BC9669C5-57E0-463C-A0B6-72F579C9C5B5"
+      ],
+      "startTimestamp" : "2014-11-26T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Mindfulness",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#01b0f0",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "D6A63F0E-8B38-41AA-8252-BC37BD12F91D",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "98F8A551-FBA0-4E3C-B98D-640A0DCE4941"
+      ],
+      "startTimestamp" : "2014-11-26T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "How to steal $60mil in 60 seconds",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ff66cc",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T14:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "66D34613-7A5A-40A5-AD96-B69E60EAFBC1",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "3130EF4E-085B-451C-B0CE-81B42F2657ED"
+      ],
+      "startTimestamp" : "2014-11-26T14:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#34eb3e",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T15:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "D2076C35-5693-4903-9A3F-49B3C5CA4E4A",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "043BB4B7-45A9-4303-BE7E-CD6040AB4A89"
+      ],
+      "startTimestamp" : "2014-11-26T14:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ffff01",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T15:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "6D2AA1B0-A364-4312-9ED1-D5E4C1DF638B",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "187CEE5D-2D8C-4169-9C9D-E334DAB5F25F"
+      ],
+      "startTimestamp" : "2014-11-26T15:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#34eb3e",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T16:45:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "CD55B21A-EC5A-4E5C-B2A7-2752BE5AC922",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "C22FA651-92A7-4585-82DD-58359472402A"
+      ],
+      "startTimestamp" : "2014-11-26T16:15:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ff66cc",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T017:15:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "71B6EFD9-AFA5-49B1-8B78-4082EE9F73BD",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "CEB200C6-538F-4D68-9DCB-ABEFDED635B5"
+      ],
+      "startTimestamp" : "2014-11-26T16:45:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#f1850f",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T11:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "24022787-06BC-4C75-91E0-BA6AA8FE19A1",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "playhouse",
+      "speakers" : [
+        "4138B188-DB80-49A5-B933-9FE216FA0D35"
+      ],
+      "startTimestamp" : "2014-11-26T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ff0000",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "6C2C0296-E12A-4293-8890-8FF5FED3CB86",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "playhouse",
+      "speakers" : [
+        "1B29B527-E769-46AA-AA8F-A5B8332032AE",
+        "7C80D958-6083-4D17-9137-B2BE2B5FBC5A",
+        "F1AD599B-95AC-43F1-AD5E-361B722C8D25"
+      ],
+      "startTimestamp" : "2014-11-26T11:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Conversation Jam",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#34eb3e",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "1F016EE2-A834-4FF2-8466-06485F0DF800",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "playhouse",
+      "speakers" : [
+        "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
+      ],
+      "startTimestamp" : "2014-11-26T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ffff01",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T11:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "630A80AB-683E-4721-AEDB-6F4F0A477E29",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr1_nautical",
+      "speakers" : [
+        "187CEE5D-2D8C-4169-9C9D-E334DAB5F25F"
+      ],
+      "startTimestamp" : "2014-11-26T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#34eb3e",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "81AA4690-104A-49FC-822E-CB31810FE008",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr1_nautical",
+      "speakers" : [
+        "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
+      ],
+      "startTimestamp" : "2014-11-26T11:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ff0000",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "56BACF3E-E605-45D0-A81D-98FBFC6E54B3",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr1_nautical",
+      "speakers" : [
+        "7C80D958-6083-4D17-9137-B2BE2B5FBC5A"
+      ],
+      "startTimestamp" : "2014-11-26T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ffff01",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T11:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "B5E21B36-F9E1-41DA-8D72-3EDC08EC20E8",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr2_court_house",
+      "speakers" : [
+        "61A20DC9-781C-4B6A-AE12-C29C80537587"
+      ],
+      "startTimestamp" : "2014-11-26T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Just one thing - managing change effectively in life",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#34eb3e",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "62368876-5742-496C-BCFE-209213DCB235",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr2_court_house",
+      "speakers" : [
+        "C22FA651-92A7-4585-82DD-58359472402A"
+      ],
+      "startTimestamp" : "2014-11-26T11:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Neuroscience and collaboration",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ff0000",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "7A3F32AB-997A-4351-8225-72080E6BEB3B",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr2_court_house",
+      "speakers" : [
+        "1B29B527-E769-46AA-AA8F-A5B8332032AE"
+      ],
+      "startTimestamp" : "2014-11-26T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Speaker Close Up",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ff0000",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T11:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "07053BFC-BA0F-4612-9FC3-BDBDEC0E6752",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr3_alice",
+      "speakers" : [
+        "7C80D958-6083-4D17-9137-B2BE2B5FBC5A"
+      ],
+      "startTimestamp" : "2014-11-26T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Entrepreneurship, business",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#01b0f0",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "1AE60BB7-9680-49CC-BA5C-9EFB0FD7A890",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr3_alice",
+      "speakers" : [
+        "98F8A551-FBA0-4E3C-B98D-640A0DCE4941"
+      ],
+      "startTimestamp" : "2014-11-26T11:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "How to steal $60mil",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ffff01",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "0E798FB9-112A-4312-BD5A-C0DBDB8697AF",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr3_alice",
+      "speakers" : [
+        "187CEE5D-2D8C-4169-9C9D-E334DAB5F25F"
+      ],
+      "startTimestamp" : "2014-11-26T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#34eb3e",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T11:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "1AE1E147-1BCF-462A-B48A-9D4DABBEF072",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr4_medieval",
+      "speakers" : [
+        "C22FA651-92A7-4585-82DD-58359472402A"
+      ],
+      "startTimestamp" : "2014-11-26T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Neuroscience and collaboration",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#34eb3e",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "B4DAC2BC-EAC4-45FE-AE4A-D7ACF128C8C8",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr4_medieval",
+      "speakers" : [
+        "043BB4B7-45A9-4303-BE7E-CD6040AB4A89"
+      ],
+      "startTimestamp" : "2014-11-26T11:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Speaker Close up",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ffff01",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "4B6979D6-7487-422D-8EE4-D86F3AB528D3",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr4_medieval",
+      "speakers" : [
+        "61A20DC9-781C-4B6A-AE12-C29C80537587"
+      ],
+      "startTimestamp" : "2014-11-26T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Just one thing - managing change effectively in life",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
     }
   ],
   "speakers" : [
     {
       "bio" : "CEO",
-      "company" : "RDF",
-      "id" : "b5ca32e2-a5c6-e311-b297-00155d5066d6",
+      "company" : "Commonwealth Bank Australia",
+      "id" : "4138B188-DB80-49A5-B933-9FE216FA0D35",
       "name" : "Ian Narev",
-      "plusoneUrl" : "commbank.com.au",
+      "plusoneUrl" : "",
       "thumbnailUrl" : ""
     },
     {
-      "bio" : "Dr. Sharp is one of Australia's leaders in the exciting new science of positive psychology and happiness.  In short, he is one of this country's leading Executive Coaches, a highly qualified consultant on matters relating to human behaviour and psychology (particularly the application of positive psychology principles within organisations and teams) and a popular and sought after public/corporate speaker.",
-      "company" : "Dr Happy",
-      "id" : "11613bcb-7edb-e311-b297-00155d5066d7",
-      "name" : "Tim Sharp",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/timsharpLandscape.jpg"
-    },
-    {
-      "bio" : "Oxford professor Richard Dawkins has helped steer evolutionary science into the 21st century, and his concept of the meme contextualized the spread of ideas in the information age. In recent years, his devastating critique of religion has made him a leading figure in the New Atheism.",
-      "company" : "RDF",
-      "id" : "b5ca32e2-a5c6-e311-b297-00155d5066d7",
-      "name" : "Richard Dawkins",
-      "plusoneUrl" : "RichardDawkins.net",
-      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/richard-dawkins-2003.jpg"
-    },
-    {
-      "bio" : "Former chief evangelist of Apple",
-      "company" : "Apple (former)",
-      "id" : "b5ca32e2-a5c6-e311-b297-00155d5066d5",
+      "bio" : "Guy Kawasaki is the chief evangelist of Canva, a graphics-design online service, and an executive fellow at the Haas School of Business at U.C. Berkeley. Formerly, he was an advisor to the Motorola business unit of Google and chief evangelist of Apple. He is also the author of APE, What the Plus!, Enchantment, and nine other books. Kawasaki has a BA from Stanford University and an MBA from UCLA as well as an honorary doctorate from Babson College.",
+      "company" : "Chief Evangelist, Canva",
+      "id" : "6C5B74C6-4A8C-4A75-B88B-6F3C5F75E2BD",
       "name" : "Guy Kawasaki",
-      "plusoneUrl" : "http://www.guykawasaki.com",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/Guy-Kawasaki-Featured-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Jack Andraka was just a fifteen year old Maryland high school sophomore when\nhe invented an inexpensive early detection test for pancreatic, ovarian, and\nlung cancers. After a close family friend died of pancreatic cancer, Andraka\n(then a ninth grader) became interested in finding a better early-detection\ndiagnostic test. He learned that the lack of a rapid, low-cost early\nscreening method contributed to the poor survival rate among individuals\nwith pancreatic cancer. After thinking further about the problem, he came up\nwith a plan and a budget to put his ideas in motion.\nStill a teenager, Andraka’s groundbreaking results have earned him\ninternational recognition, most notably a 2014 Jefferson Award, the nation’s\nmost prestigious public service award, 1st place winner in the 2014 Siemens\nWe Can Change the World Challenge, a 2014 National Geographic Explorer\ngrant, the 2012 Intel ISEF Gordon Moore Award, the 2012 Smithsonian American\nIngenuity Youth Award, Advocate Magazine’s 40 under 40 award, and he’s also\nthe 2014 State of Maryland winner of the Stockholm Water Prize.</p>\n\n<p>In addition, Andraka was First Lady Michelle Obama’s personal guest at the\n2013 State of the Union Address. He speaks to audiences of youths and adults\nall across the globe about his personal story, research, and his ideas for\nSTEM education reform. He has been featured in several documentaries\nincluding Morgan Spurlock’s Sundance Film Festival entry, “You Don’t Know\nJack,” Linda Peters’ award winning film, “Just Jack,” Ken Burns’ upcoming\ndocumentary about cancer, as well as 60 Minutes, The Colbert Report, ABC\nWorld News with Diane Sawyer, CNN, BBC, Fox, Rede Record de Televisão, and\nradio, newspaper, and magazine articles around the world.</p>\n\n<p>Andraka speaks at a wide variety of locations including universities,\nschools, technology organizations and corporations, hospitals and the\neducation sector. His audiences range from youth-children and teens through\nto adults in the science and technology fields.</p>\n\n<p>Andraka now lives in Baltimore, Maryland. He is a member of the National\nJunior Wildwater Kayak team, a Life Scout and has won numerous awards in\nnational and international math competitions.</p>",
+      "company" : "",
+      "id" : "2D553702-C3D4-4535-A671-DDDAC2AF3801",
+      "name" : "Jack Andraka",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/jack-andraka-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Michelle Simmons is currently a Scientia professor and Laureate Fellow at the University of New South Wales. She obtained a double degree in physics and chemistry and was awarded a PhD in Physics from Durham University, UK in 1992. Her Postdoctoral position was as a Research Fellow in quantum electronics at the Cavendish Laboratory in Cambridge, UK where she gained an international reputation for her work in the discovery of the ‘0.7 feature’ and metallic behaviour in 2D Gas hole systems. In 1999, she was awarded a QEII Fellowship and came to Australia where she was a founding member of the Centre of Excellence for Quantum Computer Technology.</p>\n<p>Since then she has established a large research group dedicated to the fabrication of atomic-scale devices in silicon and germanium using the atomic precision of a scanning tunnelling microscope. Her group is the only group world-wide that can make atomically precise devices in silicon: they have developed the world’s first single atom transistor and the thinnest conducting doped wires in silicon. She has published more than 360 papers in refereed journals with an h-index of 40 including 27 Physical Review Letters and papers in Nature, Science, Nature Materials, Nature Physics and Nature Nanotechnology. She has been awarded two Federation Fellowships and is currently an ARC Laureate Fellow. In 2005 she was awarded the Pawsey Medal by the Australian Academy of Science becoming one of the youngest elected Fellows of this Academy in 2006. In 2012 she was named NSW Scientist of the Year and in 2014 became an elected Fellow of the American Academy of Arts and Science.</p>",
+      "company" : "",
+      "id" : "78793791-9B46-4004-99AA-B36305353F71",
+      "name" : "Professor Michelle Simmons",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/michelle-simmons-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Author of the international best-selling self-help book, The Happiness Trap, is a world-renowned trainer of Acceptance & Commitment Therapy (ACT).</p>\n<p>Russ’s background is in medicine. As a GP he became increasingly interested in the psychological aspects of health and wellbeing, and increasingly disenchanted with writing prescriptions. Ultimately this interest led to a total career change. He now works in two different, yet complementary roles – as a therapist and as a coach – and has provided ACT training for over 15,000 Australian therapists, coaches, counsellors, doctors, and other health professionals.</p>\n\n<p>Russ has authored six books and is also the co-author of a further two self-help books. The Happiness Trap is the best-selling ACT book in the world, so far translated into twenty-two languages.</p>",
+      "company" : "",
+      "id" : "BC9669C5-57E0-463C-A0B6-72F579C9C5B5",
+      "name" : "Dr Russ Harris",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/russ-harris-150x150.jpg"
+    },
+    {
+      "bio" : "Andrzej Kawalec is CTO for HP Enterprise Security. He is responsible for HP’s Information Security strategy, solutions, portfolio and market facing activity. He leads a global research and innovation team, with a particular focus upon Cloud, Consumerisation, Cyber Security and the Business Risks surrounding information security systems, policies, users and process. Prior to this, Andrzej has spent 18 years at some of the world’s largest and smallest asset management and IT companies, including Siemens, Compaq and Digital. His experience with start-ups and niche advisory gives an intimate knowledge of both the macro and micro challenges facing organizations today.",
+      "company" : "CTO Enterprise Security, Hewlett-Packard Company",
+      "id" : "98F8A551-FBA0-4E3C-B98D-640A0DCE4941",
+      "name" : "Andrej Kawalec",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>John Kaldor AM is a dedicated collector, patron and supporter of contemporary art. He has been collecting and commissioning art since the late 1950s and since 1969 has shared his love of art with the Australian public through his series of art projects. Kaldor has brought the most innovative and groundbreaking art to Australia for over 40 years through what is now the not-for-profit organisation Kaldor Public Art Projects, listed since 2004 on the national Register of Cultural Organisations.</p>\n<p>Kaldor has participated on the boards and international councils of many art organisations over the years, including P.S.1 in New York, the Tate Modern, London, the Biennale of Sydney, and as chair of the Museum of Contemporary Art, Sydney. He was selected as commissioner for the Australian Pavilion at the 51st Venice Biennale in 2005 and again for the 52nd Venice Biennale in 2007. Kaldor was a founding member of the board of the Power Institute of Contemporary Art, a trustee of the Art Gallery of New South Wales, Sydney, and is currently on the International Council of the Museum of Modern Art, New York.</p>",
+      "company" : "",
+      "id" : "3130EF4E-085B-451C-B0CE-81B42F2657ED",
+      "name" : "John Kaldor",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/john-kaldor-150x150.jpg"
+    },
+    {
+      "bio" : "John J. Medina is a developmental molecular biologist with special research interests in the isolation and characterization of genes involved in human brain development and the genetics of psychiatric disorders.",
+      "company" : "Developmental molecular biologist",
+      "id" : "043BB4B7-45A9-4303-BE7E-CD6040AB4A89",
+      "name" : "Dr John Medina",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/John-J-Medina-150x150.jpg"
+    },
+    {
+      "bio" : "Dr Michael Hewitt-Gleeson is known as “the father of x10 thinking”. He is an Australian gentleman, a world authority on lateral thinking. Scientist. Author. Intellectual philanthropist. Vaticanologist.",
+      "company" : "",
+      "id" : "187CEE5D-2D8C-4169-9C9D-E334DAB5F25F",
+      "name" : "Dr Michael Hewitt Gleeson",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/Michael-Hewitt-Gleeson-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Dr Fiona Kerr is a specialist in systems and neural complexity at the University of Adelaide, and has been the Director of FK Consulting for 25 years working in the areas of organisational creativity, transformation and futurising across both public and private sectors.</p>\n<p>This work includes advising governments in Australia and Asia on creative bureaucracy and the government’s role in fostering innovative ecosystems, increasing cognitive creative capacity in both educational and organisational settings, investigating complex systems and creativity with various European bodies, and even looking at the ideation process in Cirque du Soleil!</p>\n\n<p>Whilst in Montreal Fiona will also start a neuroscience research project on the mapping of complex thought.</p>\n\n<p>She is currently writing an airport book on the neuroscience of leading, collaboration and creativity, to be called the brain that changes each other.</p>",
+      "company" : "",
+      "id" : "C22FA651-92A7-4585-82DD-58359472402A",
+      "name" : "Dr Fiona Kerr",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/fiona-kerr-150x150.jpg"
+    },
+    {
+      "bio" : "<p>John is Co-Artistic Director of Bell Shakespeare and one of Australia’s most acclaimed theatre personalities. In a career of acting and directing, John has been instrumental in shaping the Australian theatre industry as we know it. After graduating from Sydney University in 1962 John worked for the Old Tote Theatre Company, all of Australia’s state theatre companies and was an Associate Artist of the Royal Shakespeare Company in the United Kingdom. As co-founder of Sydney’s Nimrod Theatre Company, John presented many productions of landmark Australian plays including David Williamson’s Travelling North, The Club and The Removalists. He also initiated an Australian Shakespeare style with Nimrod productions such as Much Ado About Nothing and Macbeth.</p>\n\n<p>In 1990 John founded The Bell Shakespeare Company where his productions have included The Duchess Of Malfi, Much Ado About Nothing, Hamlet, Romeo And Juliet, The Taming Of The Shrew, Richard 3, Pericles, Henry 4, Henry 5, Julius Caesar, Antony And Cleopatra, The Comedy Of Errors, Wars Of The Roses, Measure For Measure, Macbeth and As You Like It, as well as Goldoni’s The Servant Of Two Masters, Gogol’s The Government Inspector and Ben Jonson’s The Alchemist. The Rake’s Progress for the Victorian Opera and has also directed a production of Madame Butterfly for an Oz Opera national tour. John is at present Co-directing a production of Monkey with Kim Carpenter for The Theater of Image.</p>\n\n<p>John is an Officer of the Order of Australia and the Order of the British Empire. He has an Honorary Doctorate of Letters from the Universities of Sydney, New South Wales and Newcastle. In 1997 he was named by the National Trust of Australia as one of Australia’s Living Treasures. In 2003 the Australia Business Arts Foundation awarded John the Dame Elisabeth Murdoch Cultural Leadership Award. His many awards include a Producers and Directors Guild Award for Lifetime Achievement, the 2009 JC Williamson Award for extraordinary contribution to Australia’s live entertainment industry and the 2010 Sydney Theatre Award for Lifetime Achievement in recognition of his extraordinary career as an actor, director and producer.</p>",
+      "company" : "Actor, Director, Founder of Bell Shakespeare",
+      "id" : "CEB200C6-538F-4D68-9DCB-ABEFDED635B5",
+      "name" : "John Bell AO OBE",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/john-bell-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Lisa Messenger is the vibrant, game-changing CEO and creative director of The Messenger Group, as well as founder and editor-in-chief of The Collective magazine – an entrepreneurial lifestyle magazine distributed into over 33 countries with a mandate to disrupt, challenge and inspire. In addition, she has worked globally in events, sponsorship, marketing, PR and publishing.</p>\n\n<p>Lisa has authored and co-authored over a dozen books and The Messenger Group has custom published more than 400 books for companies and individuals. Lisa has been a regular commentator on business, entrepreneurialism and property and has sat on a number of boards including the Australian Businesswomen’s Network and Publishers Australia.</p>",
+      "company" : "Creative Director, The Messenger Group",
+      "id" : "42181747-2AF0-4D0E-802F-A0A125E40CD0",
+      "name" : "Lisa Messenger",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>For more than 25 years Jane has built a career across blue chip Technology, Media and Telecommunications organisations in Australia and internationally. She started as a product and systems engineer at Microsoft in early 1989, then spanning into development, partner, sales and consumer marketing roles over the next sixteen years. Time running mass market product group at Vodafone, then led to a role as CEO of Fairfax Digital (Metro Media) , overseeing the online news and entertainment businesses encompassing product, marketing, mobile, editorial, development and integration of acquisitions.</p>\n\n<p>In her current role at Pandora, she has been charged with growing the first international subsidiaries for Pandora – establishing a broad base of streaming radio listeners and implementing the commercial model and long term market approach. Pandora recently announced two million registered users in less than 18 months, more than fifty local auto and device integrations and a rapidly growing base of engaged and loyal users.</p>",
+      "company" : "Managing Director, Pandora Internet Radio, Australia and New Zealand",
+      "id" : "1B29B527-E769-46AA-AA8F-A5B8332032AE",
+      "name" : "Jane Huxley",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Dr Catriona Wallace is an Entrepreneur, Customer Experience Futurist and Chief Executive of three Sydney-based businesses:</p>\n<ul><li>Fifth Quadrant, Australia’s largest independent Customer Experience Strategy, Design& Research firm;</li>\n<li>ACA Research, a market research company; and</li>\n<li>Flamingo Ventures, a celebrated tech start-up, one of the world’s first Vendor Relationship Management (VRM) companies.</li>\n</ul>\n<p>Dr Wallace has a PhD in Leadership & Organisational Behaviour from the Australian Graduate School of Management and is a well published author and internationally renowned public speaker. Catriona is also the Founder of philanthropic organisations:</p>\n<ul>\n<li>Indigo Express Fund – Indigenous literacy programs; Kids in Philanthropy – developing a social conscience and practice of giving in kids for kids;</li>\n<li>Out and Up – an employment program for women prisoners and Asylum Seekers; and</li>\n<li>RAWomen – an innovative online mentoring forum for women.</li></ul>",
+      "company" : "",
+      "id" : "7C80D958-6083-4D17-9137-B2BE2B5FBC5A",
+      "name" : "Dr Catriona Wallace",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Melissa is the Principal Research Fellow of the Australian Unity Wellbeing Index, a project that has tracked the subjective wellbeing of Australians since 2001. She has a PhD in psychology and is also a provisional psychologist. Dr Weinberg believes in the power of psychoeducation to engender understanding, empower others, and effect change. Her aim is to use insights from scientific research to translate complex ideas into more simple, helpful, and practical applied strategies that facilitate wellbeing, self-awareness and social change.</p>\n<p>Dr Weinberg has appeared on TV and radio programs where she discusses the science of happiness and what makes Australians happy. She has authored scientific articles and book chapters on the topic, and has presented at numerous academic and corporate conferences in Australia and internationally.</p>",
+      "company" : "",
+      "id" : "7C3E93A5-EB65-4886-8234-4F5BCF728A7D",
+      "name" : "Melissa Weinberg",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Cathie is Managing Partner of Epic Pharmacy, one of Australia’s largest pharmacy service providers to the hospital, oncology and aged care sector. She is also one of Australia’s first Google Glass Explorers.</p>\n\n<p>Cathie is a strong advocate of digital healthcare and the role wearable technology can play in actively engaging society to manage their own health outcomes. She is focused on delivering digital solutions in a highly paper-driven Australian healthcare sector. These solutions will enable a more collaborative and seamless approach to care, with practitioners and patients able to access health information and seek consultation via web-based applications.</p>\n\n<p>Cathie was named one of the Top 100 Women of Influence by the Australian Financial Review in 2013, won a National Telstra Business Women’s Award in 2011 and was recognised by Monash University with a Distinguished Alumni Award for Professional Achievement in 2012.</p>",
+      "company" : "Epic Pharmacy Managing Partner & Google Glass Explorer",
+      "id" : "F1AD599B-95AC-43F1-AD5E-361B722C8D25",
+      "name" : "Cathy Reid",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Anthony Bertini has extensive experience in publishing and new media, including 15 years in sales and publishing roles for ACP Publishing and ICP Magazines.</p>\n<p>More recently he has founded and led media advisory companies, including BMC Media and Thumper One Ltd, a corporate advisory practice that assists with investment and capital-raising in new-technology start-ups.</p>\n\n<p>Anthony has also been a Director of the Biennale of Sydney since 2004.</p>",
+      "company" : "",
+      "id" : "5EF3D4E3-B7C7-4CE8-AAF8-73B4118EA629",
+      "name" : "Anthony Bertini",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Commencing her career as a professional ice skater,and today is a published academic and corporate consultant. Lynn knows how to make sustainable change and reach the goals you are seeking without having to sacrifice too much along the way.</p>\n<p>She is passionate about inspiring and involving people so they are motivated to make change happen. Enthusiastic and energetic, Lynn sees possibilities in all she touches. Her experience is in delivering content and processes to change how people perceive and act in their lives and about their work.</p>\n\n<p>Flexible in her style and approach Lynn is comfortable with all cultures and has worked widely in Asia and with Asian cultures. By creating shared understanding, Lynn’s emphasis on practical, real change. Just one thing started like any good idea, as a conversation, that lead to amazing results.</p>",
+      "company" : "",
+      "id" : "61A20DC9-781C-4B6A-AE12-C29C80537587",
+      "name" : "Dr Lynn Gribble",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Jo Burston breathes life and purpose into everything she does, making her the successful entrepreneur and natural leader you see today. Jo is a die hard entrepreneur, she sees everything as possible.</p>\n<p>With over 10 years spent in the outsource payroll, migration and contingent workforce space and now making moves in the technology sector, Jo has a strong belief in the power of dynamic business models matched with a thriving and work culture where only people with common values are allowed to play.</p>\n\n<p>She is actively passionate about the entrepreneurial space and, true to her nature, is a member of the global Entrepreneurs Organization. She sits on the board in Sydney as the Strategic Alliance chair, previously Education Chair, organising all learning events for their 130 entrepreneur members with businesses plus $5m and in 2014-2015, Strategic Alliance Chair, raising cash and kind resources to help entrepreneurs grow, learn and change the world within the membership and their own organisations.</p>\n\n<p>Praised as a business role model for women, today, Jo is currently in the midst of launching her next project, something she attributes to be her “true purpose in life”. Rare Birds is an Australian based movement that aims to be\nthe central hub of the women entrepreneurs space.</p>\n\n<p>Launching in October 2014 with plans to go global, Rare Birds will consist of a series of books, an online community, tools to success, mentor programs, access to money and resources and a documentary featuring some of the most notable female identities in Australian business and leadership.</p>",
+      "company" : "",
+      "id" : "2E238A83-477C-4DFB-BC1B-788D2FA0CE4F",
+      "name" : "Jo Burston",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Director in the Private Enterprise division of KPMG, Keith has over 30 year’s experience working with wealth owners to help achieve financial goals and preserve wealth. Between 2006 and 2011 he ran The Myer Family Company’s Sydney office, widely regarded as Australia’s largest independent multi-family office.</p>\n<p>Through the last 15 years Keith has worked closely with founders and trustees of some of Australia’s most significant Foundations and Private Ancillary Funds. He consults widely to the not for profit sector and is KPMG’s member representative with the peak body of philanthropy in Australia , Philanthropy Australia.</p>",
+      "company" : "",
+      "id" : "CF1AC72B-17D4-4424-9B21-C7FC0E80607A",
+      "name" : "Keith Drewery",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Dr. Andreas Weigend is an expert on the future of big data, social-mobile technologies, and consumer behavior. Andreas teaches at Stanford University, UC Berkeley, and China’s CKGSB. He received his Ph.D. in Physics from Stanford after studying in Germany and Cambridge, UK.</p>\n<p>As Amazon’s chief scientist, he helped create the firm’s data strategy and customer-centric culture. Andreas founded the Social Data Lab, which connects faculty and students with companies looking to find new forms of engagement with their customers.</p>\n\n<p>Andreas also advises innovative startups and regularly consults for large corporations including Alibaba, GE, Lufthansa, and MasterCard on how to leverage the Social Data Revolution.</p>\n\n<p>In his speaking engagements, he shares insights on the untapped power of data and its irreversible impact on individuals, business, and society. Andreas lives in San Francisco, Shanghai, and weigend.com.</p>",
+      "company" : "Former Chief Scientist, Amazon and Founder, Social Data Lab",
+      "id" : "6A8D203B-814F-419C-8919-A55AFDC5351A",
+      "name" : "Andreas Weigend",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/andreas-weigend-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Jitin has over 18 years of industry experience and is currently the CEO – FT Services, based out of London.</p>\n<p>Prior to Polaris, he spent more than 10 years at Infosys with stints in the US, UK and Continental Europe, serving as the Head of Sales for Europe, Middle East & Africa, and then as Head of Financial Services for Europe. He was a member of the Tier-1 leadership team at Infosys.</p>\n\n<p>Prior to joining Infosys in 1999, Jitin was with Citibank in India. He has rich experience across multiple dimensions of the banking industry including FX and derivatives trading, selling risk management solutions to corporate clients, leading BPR teams responsible for re-engineering the bank’s core systems and processes, and running back-office operations.</p>\n\n<p>Jitin is also a successful entrepreneur and has set up a technology innovation company.</p>\n\n<p>Jitin holds an MBA in Finance & Strategy from the Indian Institute of Management (Calcutta) and a BE in Electronics from Thapar Institute of Engineering & Technology.</p>",
+      "company" : "",
+      "id" : "80B9C167-7232-4CBE-BF6A-4433B1A9CE65",
+      "name" : "Jitin Goyal",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "",
+      "company" : "",
+      "id" : "F00F687C-3116-4001-A770-1C0D69576FB8",
+      "name" : "David Whiteing",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Andrew is the CEO and Co-founder of 1QB Information Technologies (1QBit), the world’s first software company dedicated to producing applications for commercial quantum computers.</p>\n\n<p>Andrew studied Economics at the University of Waterloo and Philosophy and Political Science at the University of British Columbia prior to completing post-graduate programs in Technology Studies at Singularity University and Financial Engineering at Stanford University.</p>\n\n<p>Andrew was a founding partner at Vancouver-based VCC firm Minor Capital, co-founder of Satellogic Nano-Satellites, and co-founder of Cloudtel Communications.</p>",
+      "company" : "CEO 1QB Information Technologies",
+      "id" : "6258EFBF-8968-44AB-A48F-6247DB46855D",
+      "name" : "Andrew Fursman",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/Andrew-Fursman-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Tim Sharp is an internationally acclaimed 26 year-old artist from Brisbane. Diagnosed with Autism at age three the prognosis was that his mother should “put him away and forget about him.” Ignoring this prognosis, Judy Sharp, a single mother of two young sons tried everything she could think of to communicate with her son, including drawing.</p>\n\n<p>At age eleven Tim created his own super hero, Laser Beak Man. Tim is the first person in the world with autism to have his art turned into an animated television series screening on the ABC and internationally. In 2012 a film about Tim was shown in the Metropolitan Museum of Art in New York City. His art is sold to collectors from around the world. In 2012 Tim’s collaboration with a young rock band from Nashville Tennessee inspired a music festival raising autism awareness to commence in Nashville. In 2014 Tim received a standing ovation after giving his TEDx talk to a capacity crowd at the Sydney Opera House. In June 2015 Laser Beak Man the stage production will open at the New Victory Theatre, Broadway, New York City. Love and art have given Tim and Judy happiness that they could never have dreamt possible.</p>",
+      "company" : "",
+      "id" : "0AC4E5EC-CC1E-491F-9FE3-A3C204EA0519",
+      "name" : "Tim and Judy Sharp",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/tim-judy-sharp-150x150.jpg"
+    },
+    {
+      "bio" : "2013 South Australian Entrepreneur of the Year, magician and professional speaker Vinh Giang is fascinated with the psychology behind the mysterious art of magic, and has devoted himself to understanding the ways in which people are fooled not only by illusions, but by the tricks that life plays on us, and that we play on ourselves.",
+      "company" : "Entrepreneur & Magician",
+      "id" : "338791A4-0D80-421E-BF73-6DF58ED48E23",
+      "name" : "Vinh Giang",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/speaker_2000-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Matt Jackson is a poet, riddler, storyteller, business leader, husband to Leah and father to Rip. In 2014 Matt has played with audiences at TEDX, VIVID Ideas and toured Australia and New Zealand with Adobe to pose the question, \"Why make anything without feeling\"?</p>\n\n<p>It is Matt's mission to bridge the gap between Art and Commerce and it is his purpose to help people place greater value on the affect of their actions than the effect.</p>",
+      "company" : "affectors.com",
+      "id" : "6A5B5126-99F4-4AC8-B2CF-507000F022D4",
+      "name" : "Matt Jackson",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/09/MattJackson-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Ms. Liesl Capper is currently VP of Product/Strategy for the Watson Group at IBM. Her career at IBM recently started through the acquisition of Cognea Artificial Intelligence. Capper was Co-Founder, Chief Executive Officer, and Director of Cognea Artificial Intelligence. Capper has extensive international business experience as the Chief Executive Officer. She has been managing growth businesses for over 15 years.</p>\n\n<p>Liesl has helped lead Cognea (formerly known as MyCyberTwin) from a research and development company, to a market leader in the provision of high-end customer support solutions to clients like NAB, HP, NASA, Westpac and others. Before Cognea Artificial Intelligence, Capper was founder and Chief Executive Officer of Mooter. Mooter is a stock-exchange listed company specializing in search and behavioral targeting. While leading Mooter, she raised millions in venture capital, created patents and defensible technology, managed the expansion into US and Asian markets, secured deals with major clients including Yahoo! and Fairfax; and prepared the company for listing. Prior to Mooter, while in her twenties, Capper built a multi-national education franchise to 38 branches in four countries. She took the business online, trained her management to run it in 2000, and it is still growing today.</p>\n\n<p>Capper holds a bachelors degree in Psychology & Education, and has a Post-Graduate Certificate in Venture Development. She is also a graduate of the Australian Institute of Company Directors, and is a regular speaker at local and international conferences. Capper was honored with the following awards and recognition:</p>\n\n<ul><li>Telstra Business Women’s Awards: Winner of the Nokia Business Innovation Award</li>\n<li>2012 iAwards: Winner, ICT Woman of the Year</li>\n<li>Honorary Member of the Australian Computer Society (ACS)</li>\n<li>Pearcey Hall of Fame for IT</li>\n</ul>",
+      "company" : "VP of Product/Strategy, Watson Group, IBM",
+      "id" : "18F0F0F9-5C7C-4407-A81C-8AC596F12742",
+      "name" : "Leisl Capper",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/leisl-capper-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Richard Dawkins, noted evolutionary biologist and atheist, was voted Prospect magazine’s #1 World Thinker in 2013.</p>\n\n<p>He has published eleven books, all still in print, including The Selfish Gene, the blockbuster bestseller The God Delusion, Unweaving the Rainbow, Science, Delusion and the Appetite for Wonder and his magnum opus The Ancestor’s Tale.</p>\n\n<p>Dawkins is a fellow of both the Royal Society and the Royal Society of Literature. He was the inaugural holder of the Simonyi Chair for the Public Understanding of Science at Oxford University and is the recipient of numerous degrees and awards, including the International Cosmos Prize of Japan.</p>",
+      "company" : "Evolutionary biologist",
+      "id" : "D6FCDD1E-34DA-412C-B01D-CCB5A44CECDE",
+      "name" : "Richard Dawkins",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/Richard-Dawkins-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Paul Muller leads the global IT management evangelist team within the Software business at HP. In this role, Muller heads the team responsible for fostering HP’s participation in the IT management community, contributing to and communicating best practices in helping IT perform better. Previously, Muller was global vice president of strategic marketing for HP Software, responsible for leading the development and execution of HP’s IT management portfolio go-to-market strategy.</p>",
+      "company" : "IT Management Evangelist, Software Group, Hewlett-Packard Company",
+      "id" : "3C768502-4AD3-4B9C-BB87-F9879A508BB6",
+      "name" : "Paul Muller",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Mary Coustas is a writer/performer well known for her performance in Wogs out of Work and for her character Effie developed for the high rating TV sitcom Acropolis Now.\nShe won a Best Comedy Performer Logie Award for performing the character Effie.</p>\n\n<p>Back on stage, she then went on to appear in the record breaking theatrical shows Wog A Rama and her one woman show Waiting for Effie, which toured nationally throughout Australia. Mary joined the cast of Sylvia for Sydney Theatre Company, gaining high praise for portraying a dog on stage.</p>\n\n<p>Mary’s other TV Credits include Skirts, Wildside, Grass Roots and The Secret Life of Us and recently Rake 2.</p>\n\n<p>She also earned herself an AFI Nomination for Best Supporting Actress for her role in Mull and appeared in Nirvana Street Murder and Hercules Returns.</p>\n\n<p>Mary has written for, and performed in, her TV show Greeks on The Roof , based on her character Effie’s family home TV Studio.</p>\n\n<p>As Effie has so much to say, Mary allowed her to write a book, Effie’s Guide To Being Up Yourself , which has been published and acclaimed for tackling youth self esteem.</p>\n\n<p>Most recently Mary’s book All I Know was published by Allen and Unwin and touched the heart’s of the nation after her appearance on 60 Minutes.</p>\n\n<p>Effie continues to wow audiences with her latest show A Date With Effie.</p>",
+      "company" : "",
+      "id" : "E17E00B8-3F67-4C39-BA73-5E5FCE7AC7F3",
+      "name" : "Mary Coustas",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/mary-coustas-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Wendy McCarthy’s current portfolio reflects her passions. She chairs headspace – Australia’s National Youth Mental Health Foundation, Circus Oz, McGrath Estate Agents and Pacific Friends of the Global Fund.</p>\n\n<p>She is an experienced manager and company director who began her career as a secondary school teacher and is passionate about the power of education. For over four decades she has been a teacher, educator and change agent in Australian public life. She has worked with government, corporations and community based organisations in education, family planning, human rights, broadcasting and media, public health, heritage and overseas aid and development. She has held national and international leadership roles in many of these areas. It is this eclectic combination that gives her a unique profile and network nationally and internationally.</p>\n\n<p>In 1995 she established her national consulting business McCarthy Mentoring which specialised in providing mentors to major corporations, the public sector and not for profit organisations.</p>\n\n<p>In 1989 she was appointed an Officer of the Order of Australia for outstanding contributions to community affairs, women’s affairs and the Bicentennial celebrations.</p>\n\n<p>In 1996 she was awarded an Honorary Doctorate from the University of South Australia and in 2003 she was awarded a Centenary of Federation medal for business leadership and in 2005 she was nominated by the Sydney Morning Herald as one of Australia’s Top 100 Public Intellectuals.</p>",
+      "company" : "",
+      "id" : "9439BF7C-4A79-4822-BE9F-D6FCA7882354",
+      "name" : "Wendy McCarthy",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>In 2012 Jordan completed a PhD in Biomedical Engineering which saw him develop a thought-controlled smart wheelchair, for high-level physical disability, that utilises cameras to perceive its environment, and provides the operator with autonomous guidance assistance during navigation. His work has been featured in range of TV, radio, magazine, and newspaper interviews, most notably – ABC’s Catalyst and Channel TEN’s The Project.</p>\n\n<p>Having worked for ResMed over the past year and a half on automated test systems for their first line of premium ventilators, released to market earlier this year, he is now undertaking his own entrepreneurial endeavours to further advance his work towards new health products, whilst also working with the Cerebral Palsy Alliance in setting up and managing a range of technology initiatives specifically to improve quality of life for people living with cerebral palsy and related conditions. He has a huge focus on good design with all products and initiatives, as this creates the difference between products that are functional and necessary with those that are absolutely exciting for the individuals who need them. An experienced public speaker, Jordan is frequently invited to present at many events across the country, and these have included TEDx TheRocks, Ultimo Science Festival, Enabled By Designathon at UTS, and the latest Think Inc events in Sydney and Melbourne.</p>\n\n<p>He is on the skills committee for the Medical Technology Association of Australia knowledge hub, and is also a casual academic, teaching project development work for two engineering Masters subjects at UTS around artificial intelligence design and biomedical instrumentation. An advocate for disability, health technology, good design, worthy causes, and pursuing passions and interests from a young age, Jordan has a huge focus on helping drive massive positive impact in health-related industries throughout Australia and beyond.</p>",
+      "company" : "",
+      "id" : "AC353366-E645-40A1-82A1-F9C22FE5F1BF",
+      "name" : "Dr. Jordan Nguyen",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "http://www.wiredforwonder.com/wp-content/uploads/2014/08/jordon-nguyen-150x150.jpg"
+    },
+    {
+      "bio" : "<p>Alden joined the Commonwealth Bank of Australia on 23 June 2008 as Group Chief Risk Officer. Alden provides leadership in ensuring effective risk management and risk governance across the Bank and also helps govern the Group through membership on the Bank’s Executive Committee.</p>\n\n<p>Prior to joining the Commonwealth Bank, Alden led First Manhattan Consulting Group’s (FMCG) risk management, MIS and mortgage banking practice areas for 15 plus years, and was FMCG’s lead consulting partner between 2000 and 2008. Over his 18 years of consulting with First Manhattan, Alden has advised more than 100 banks globally on risk, strategy, mergers and performance measurement.</p>\n\n<p>Alden has a Ph.D. with honors from Tulane University and did post graduate work at MIT under a grant from the National Science Foundation.</p>\n\n<p>Alden is a Board Member of the Centre for International Finance and Regulation, and a Board Member of Bell Shakespeare.</p>",
+      "company" : "Group Chief Risk Officer, Commonwealth Bank of Australia",
+      "id" : "BB72409E-4F3D-4731-BCB6-4C76F4B55F47",
+      "name" : "Alden Toevs",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "<p>Pete Murray is Director of Business Unit Operations for Dimension Data Australia. In this role he is accountable for the go-to-market strategy across the Network, Communication, End User Compute, Security, and Application Integration business units, as well as the supporting vendor ecosystem.</p>\n\n<p>Additionally, Pete is accountable for the leadership of the architecture and sales specialisation for each of the business units nationally, which in turn are responsible for taking technology solutions to market, consulting and professional services, and a suite of managed services solutions from maintenance, to cloud, to outsourced service solutions.</p>",
+      "company" : "Director of Business Unit Operations, Dimension Data Australia",
+      "id" : "281D99AE-DD51-4A61-A480-63E855269F08",
+      "name" : "Pete Murray",
+      "plusoneUrl" : "",
       "thumbnailUrl" : ""
     }
   ],
