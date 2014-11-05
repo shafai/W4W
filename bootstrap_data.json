@@ -3,13 +3,13 @@
     {
       "end" : "2014-11-26T08:30:00Z",
       "start" : "2014-11-26T07:30:00Z",
-      "subtitle" : "Level 1",
+      "subtitle" : "",
       "title" : "Registration",
       "type" : "break"
     },
     {
-      "end" : "2014-06-25T11:00:00Z",
-      "start" : "2014-06-25T10:15:00Z",
+      "end" : "2014-11-26T11:00:00Z",
+      "start" : "2014-11-26T10:15:00Z",
       "subtitle" : "",
       "title" : "Morning Tea",
       "type" : "free"
