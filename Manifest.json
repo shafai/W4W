@@ -1,6 +1,6 @@
 {
-    "format": "iosched-json-v1",
-    "data_files": [
-        "bootstrap_data.json"
-    ]
+  "format" : "iosched-json-v1",
+  "data_files" : [
+    "bootstrap_data.json"
+  ]
 }
