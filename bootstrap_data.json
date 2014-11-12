@@ -320,7 +320,7 @@
     {
       "id" : "pr4_medieval",
       "name" : "Performance rooom 4  -Medievil",
-      "original_id" : "584B27DF-9294-4FA9-946F-6903684A2E7D"
+      "original_id" : "09F97711-4A18-46EA-B771-7461491ABA02"
     }
   ],
   "sessions" : [
@@ -897,6 +897,648 @@
       "title" : "Just one thing - managing change effectively in life",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#d17b00",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T08:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "60D9FA40-32C7-47B5-9E9B-D4C1B67EB7E7",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [],
+      "startTimestamp" : "2014-11-27T07:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Meditation for Busy Minds",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#d17b00",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T08:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "29A8E9B5-D206-4B58-877E-2736AE3A2B3F",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "playhouse",
+      "speakers" : [],
+      "startTimestamp" : "2014-11-27T07:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "No Sweat Workout",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ffffff",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T08:45:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "87C3EEF3-5BF5-4791-A74A-67760FC47413",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "E17E00B8-3F67-4C39-BA73-5E5FCE7AC7F3"
+      ],
+      "startTimestamp" : "2014-11-27T08:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Welcome",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ff0000",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T09:15:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "85AFC73E-14C4-47D8-B23F-B0004268293F",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "6A8D203B-814F-419C-8919-A55AFDC5351A"
+      ],
+      "startTimestamp" : "2014-11-27T08:45:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#b2b33b",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T09:45:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "31202846-5F10-4572-95F6-C7AD3F863FBC",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "0AC4E5EC-CC1E-491F-9FE3-A3C204EA0519"
+      ],
+      "startTimestamp" : "2014-11-27T09:15:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#b2b33b",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T10:15:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "C92A475D-933C-4FA8-9D3A-6CE6A3AF2AD2",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "2D553702-C3D4-4535-A671-DDDAC2AF3801"
+      ],
+      "startTimestamp" : "2014-11-27T09:45:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ff0000",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T11:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "FCE45C81-AB66-4A2B-9116-85E0C2A69766",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "5EF3D4E3-B7C7-4CE8-AAF8-73B4118EA629",
+        "2E238A83-477C-4DFB-BC1B-788D2FA0CE4F",
+        "CF1AC72B-17D4-4424-9B21-C7FC0E80607A"
+      ],
+      "startTimestamp" : "2014-11-27T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Philanthropy, Investment, Entrepreneurs:\rPhilanthropy and how rich people can support original thought and are keen to effect change by putting their wealth behind to noble ideas(in addition to the new helicopter)  and enabling individuals to reach their potential.",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#01b0f0",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "D9AD2237-485B-49BE-A31B-295B60F88EEE",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "6A8D203B-814F-419C-8919-A55AFDC5351A",
+        "80B9C167-7232-4CBE-BF6A-4433B1A9CE65",
+        "F00F687C-3116-4001-A770-1C0D69576FB8",
+        "6258EFBF-8968-44AB-A48F-6247DB46855D"
+      ],
+      "startTimestamp" : "2014-11-27T11:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Identiy in a new age",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#01b0f0",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "499DFF75-C6FE-4372-B668-AE9DCBC7D2DF",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "3C768502-4AD3-4B9C-BB87-F9879A508BB6"
+      ],
+      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Enterprise 20/20 - Insights to the future",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#27852c",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T14:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "AA13BE12-0A21-4E71-B056-9E0F9ADD04B3",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "D6FCDD1E-34DA-412C-B01D-CCB5A44CECDE"
+      ],
+      "startTimestamp" : "2014-11-27T13:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#923a75",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T15:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "5C5F080E-61C0-472B-8F95-62BCB40A3991",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "6A5B5126-99F4-4AC8-B2CF-507000F022D4"
+      ],
+      "startTimestamp" : "2014-11-27T14:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#01b0f0",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T15:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "3061E557-8447-4C21-A655-D6E05D4FA062",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "6258EFBF-8968-44AB-A48F-6247DB46855D"
+      ],
+      "startTimestamp" : "2014-11-27T15:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ff0000",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T16:45:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "A283DAEF-FBFE-410A-8807-26F73FB1B107",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "18F0F0F9-5C7C-4407-A81C-8AC596F12742"
+      ],
+      "startTimestamp" : "2014-11-27T16:15:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ffffff",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T17:45:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "D5DBA8E6-9E64-4AB1-97A2-BF5C055CCABD",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "338791A4-0D80-421E-BF73-6DF58ED48E23"
+      ],
+      "startTimestamp" : "2014-11-27T17:15:15Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#d17b00",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T17:45:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "FABA9699-6436-4359-A504-B26BFFB2A636",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "main_theatre",
+      "speakers" : [
+        "338791A4-0D80-421E-BF73-6DF58ED48E23"
+      ],
+      "startTimestamp" : "2014-11-27T17:15:15Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Keynote",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#27852c",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T11:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "4054D440-2A57-49AD-858D-23E5669B2951",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "playhouse",
+      "speakers" : [
+        "D6FCDD1E-34DA-412C-B01D-CCB5A44CECDE"
+      ],
+      "startTimestamp" : "2014-11-27T11:00:15Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Speaker Close up (Moderated)",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#27852c",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "C7383A01-FD62-4B4B-BC59-1B48DDBD6364",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "playhouse",
+      "speakers" : [
+        "5178A963-D55C-454F-93B5-B893D7E70961"
+      ],
+      "startTimestamp" : "2014-11-27T11:30:15Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Green Manufacturing",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#01b0f0",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "FE696D01-A00B-4389-A72E-0A10BB2B6C18",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "playhouse",
+      "speakers" : [
+        "6A8D203B-814F-419C-8919-A55AFDC5351A",
+        "80B9C167-7232-4CBE-BF6A-4433B1A9CE65",
+        "F00F687C-3116-4001-A770-1C0D69576FB8",
+        "6258EFBF-8968-44AB-A48F-6247DB46855D"
+      ],
+      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Identiy in a new age",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#923a75",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T11:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "AB0B5363-612E-41FD-B43A-6B3776F2BE11",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr1_nautical",
+      "speakers" : [
+        "6A5B5126-99F4-4AC8-B2CF-507000F022D4"
+      ],
+      "startTimestamp" : "2014-11-27T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Creativity",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#923a75",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "D7FC7564-AD23-477E-B225-D5B269B27E23",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr2_court_house",
+      "speakers" : [
+        "6A5B5126-99F4-4AC8-B2CF-507000F022D4"
+      ],
+      "startTimestamp" : "2014-11-27T11:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Creativity",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#923a75",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "AE0FC655-B755-4DB2-9C65-3EFEB13EC2F7",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr3_alice",
+      "speakers" : [
+        "6A5B5126-99F4-4AC8-B2CF-507000F022D4"
+      ],
+      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Creativity",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#b2b33b",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "F814B9A3-AB4D-4C1A-96D9-E3A0768BFED8",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr1_nautical",
+      "speakers" : [
+        "F1AD599B-95AC-43F1-AD5E-361B722C8D25"
+      ],
+      "startTimestamp" : "2014-11-27T11:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Life through a Google Glass",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#b2b33b",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "1C5DEB5A-4BC5-4EEC-8960-068F58759BE2",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr2_court_house",
+      "speakers" : [
+        "F1AD599B-95AC-43F1-AD5E-361B722C8D25"
+      ],
+      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Life through a Google Glass",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#27852c",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "6409DB59-6C5F-490C-A975-8AC43C87B453",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr1_nautical",
+      "speakers" : [
+        "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
+      ],
+      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Happiness",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#27852c",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T11:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "704D69C5-C36F-408A-A8C1-D967B4254A1F",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr2_court_house",
+      "speakers" : [
+        "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
+      ],
+      "startTimestamp" : "2014-11-27T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Happiness",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#27852c",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T12:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "1D5DEF3E-5CB5-4F7C-8EED-6C69554E9B4C",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr3_alice",
+      "speakers" : [
+        "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
+      ],
+      "startTimestamp" : "2014-11-27T11:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Happiness",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#01b0f0",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T11:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "D4B52213-C4B9-4AAF-B5A6-9704098D57D6",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr3_alice",
+      "speakers" : [
+        "3C768502-4AD3-4B9C-BB87-F9879A508BB6"
+      ],
+      "startTimestamp" : "2014-11-27T11:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Rise of the Software Defined Enterprise",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#d17b00",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T12:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "463944AF-8D1F-43E1-9E25-F4F2C1BCC0C6",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr4_medieval",
+      "speakers" : [],
+      "startTimestamp" : "2014-11-27T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Women in Focus - Wellbeing session",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#ff0000",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "2E688B9C-556E-434F-88BE-CEF438A9820D",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr4_medieval",
+      "speakers" : [
+        "5EF3D4E3-B7C7-4CE8-AAF8-73B4118EA629",
+        "2E238A83-477C-4DFB-BC1B-788D2FA0CE4F",
+        "CF1AC72B-17D4-4424-9B21-C7FC0E80607A"
+      ],
+      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Philanthropy, Investment, Entrepreneurs:\rPhilanthropy and how rich people can support original thought and are keen to effect change by putting their wealth behind to noble ideas(in addition to the new helicopter)  and enabling individuals to reach their potential.\r",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
     }
   ],
   "speakers" : [
@@ -1177,6 +1819,14 @@
       "company" : "Director of Business Unit Operations, Dimension Data Australia",
       "id" : "281D99AE-DD51-4A61-A480-63E855269F08",
       "name" : "Pete Murray",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
+    },
+    {
+      "bio" : "",
+      "company" : "",
+      "id" : "5178A963-D55C-454F-93B5-B893D7E70961",
+      "name" : "Venna Sahajwalla",
       "plusoneUrl" : "",
       "thumbnailUrl" : ""
     }
