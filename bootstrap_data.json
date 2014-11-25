@@ -29,17 +29,10 @@
       "type" : "break"
     },
     {
-      "end" : "2014-11-26T17:45:00Z",
-      "start" : "2014-11-26T17:15:00Z",
+      "end" : "2014-11-26T18:45:00Z",
+      "start" : "2014-11-26T17:45:00Z",
       "subtitle" : "",
-      "title" : "Entertainment",
-      "type" : "break"
-    },
-    {
-      "end" : "2014-11-26T17:45:00Z",
-      "start" : "2014-11-26T18:45:00Z",
-      "subtitle" : "",
-      "title" : "Delegate Party",
+      "title" : "W4W Party",
       "type" : "break\n"
     },
     {
@@ -64,10 +57,10 @@
       "type" : "break"
     },
     {
-      "end" : "2014-11-27T17:45:00Z",
-      "start" : "2014-11-27T18:45:00Z",
+      "end" : "2014-11-27T18:45:00Z",
+      "start" : "2014-11-27T17:45:00Z",
       "subtitle" : "",
-      "title" : "Tea and Biscuits (No party 2nd day)",
+      "title" : "It’s a wrap",
       "type" : "break\n"
     }
   ],
@@ -333,7 +326,7 @@
       "id" : "512C85F2-90CB-43ED-A6A5-ABF350F7E8D0",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/narev.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "4138B188-DB80-49A5-B933-9FE216FA0D35"
@@ -364,7 +357,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "The Art of Innovation",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -386,7 +379,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "Tapping Into the Hidden Innovator",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -408,7 +401,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "The Future of Computing",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -416,7 +409,7 @@
       "captionsUrl" : "",
       "color" : "#d17b00",
       "description" : "",
-      "endTimestamp" : "2014-11-26T12:30:00Z",
+      "endTimestamp" : "2014-11-26T12:20:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "F9F52EE0-B715-4595-9A96-82851BCD1532",
       "isLivestream" : false,
@@ -430,7 +423,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Mindfulness",
+      "title" : "Resilience and Mindfulness",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -448,11 +441,11 @@
       "speakers" : [
         "98F8A551-FBA0-4E3C-B98D-640A0DCE4941"
       ],
-      "startTimestamp" : "2014-11-26T12:30:00Z",
+      "startTimestamp" : "2014-11-26T12:20:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "How to steal $60mil in 60 seconds",
+      "title" : "I know what you did last summer...Cybersecurity in 2020",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -474,7 +467,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "The Art of Engagement",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -496,7 +489,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "The Brains Behind Executive Function",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -518,7 +511,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "x 10 Thinking",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -540,7 +533,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "Links Between Neuroscience and Entrepreneurship",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -562,7 +555,29 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "Leadership and the Power of Language",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#d17b00",
+      "description" : "",
+      "endTimestamp" : "2014-11-26T17:45:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "710080F2-24C1-4482-9C37-3E805C852992",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/sharp.jpg",
+      "room" : "main_theatre",
+      "speakers" : [
+        "0AC4E5EC-CC1E-491F-9FE3-A3C204EA0519"
+      ],
+      "startTimestamp" : "2014-11-26T17:15:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "A Double Shot of Happiness",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -584,7 +599,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "",
+      "title" : "Daring & Disruptive - Moderated Conversation",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -608,7 +623,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Conversation Jam",
+      "title" : "Women Disrupters - What Makes us More Potent, Dangerous, Powerful & Successful",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -621,16 +636,16 @@
       "id" : "1F016EE2-A834-4FF2-8466-06485F0DF800",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/weinberg.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/medina.jpg",
       "room" : "playhouse",
       "speakers" : [
-        "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
+        "043BB4B7-45A9-4303-BE7E-CD6040AB4A89"
       ],
       "startTimestamp" : "2014-11-26T12:30:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "",
+      "title" : "The Brains Behind Executive Function - Moderated Conversation",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -652,7 +667,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "",
+      "title" : "x 10 Thinking: Why Larry Page Lives by the Gospel of x 10 Thinking",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -674,7 +689,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "",
+      "title" : "Science of Happiness",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -687,16 +702,16 @@
       "id" : "56BACF3E-E605-45D0-A81D-98FBFC6E54B3",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/huxley.jpg",
       "room" : "pr1_nautical",
       "speakers" : [
-        "7C80D958-6083-4D17-9137-B2BE2B5FBC5A"
+        "1B29B527-E769-46AA-AA8F-A5B8332032AE"
       ],
       "startTimestamp" : "2014-11-26T12:30:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "",
+      "title" : "Story of Pandora",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -709,7 +724,7 @@
       "id" : "B5E21B36-F9E1-41DA-8D72-3EDC08EC20E8",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gribblel.jpg",
       "room" : "pr2_court_house",
       "speakers" : [
         "61A20DC9-781C-4B6A-AE12-C29C80537587"
@@ -718,7 +733,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Just one thing - managing change effectively in life",
+      "title" : "Just One Thing Now: How to Make Change Happen, with Less Stress and Greater Success",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -740,7 +755,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Neuroscience and collaboration",
+      "title" : "Links Between Neuroscience and Entrepreneurship",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -753,16 +768,16 @@
       "id" : "7A3F32AB-997A-4351-8225-72080E6BEB3B",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/huxley.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/weinberg.jpg",
       "room" : "pr2_court_house",
       "speakers" : [
-        "1B29B527-E769-46AA-AA8F-A5B8332032AE"
+        "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
       ],
       "startTimestamp" : "2014-11-26T12:30:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Speaker Close Up",
+      "title" : "Science of Happiness",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -775,16 +790,16 @@
       "id" : "07053BFC-BA0F-4612-9FC3-BDBDEC0E6752",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kerr.jpg",
       "room" : "pr3_alice",
       "speakers" : [
-        "7C80D958-6083-4D17-9137-B2BE2B5FBC5A"
+        "C22FA651-92A7-4585-82DD-58359472402A"
       ],
       "startTimestamp" : "2014-11-26T11:00:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Entrepreneurship, business",
+      "title" : "Links Between Neuroscience and Entrepreneurship",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -797,16 +812,16 @@
       "id" : "1AE60BB7-9680-49CC-BA5C-9EFB0FD7A890",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kawalec.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gribblel.jpg",
       "room" : "pr3_alice",
       "speakers" : [
-        "98F8A551-FBA0-4E3C-B98D-640A0DCE4941"
+        "61A20DC9-781C-4B6A-AE12-C29C80537587"
       ],
       "startTimestamp" : "2014-11-26T11:30:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "How to steal $60mil",
+      "title" : "Just One Thing Now: How to Make Change Happen, with Less Stress and Greater Success",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -819,16 +834,16 @@
       "id" : "0E798FB9-112A-4312-BD5A-C0DBDB8697AF",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gleeson.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/messenger.jpg",
       "room" : "pr3_alice",
       "speakers" : [
-        "187CEE5D-2D8C-4169-9C9D-E334DAB5F25F"
+        "42181747-2AF0-4D0E-802F-A0A125E40CD0"
       ],
       "startTimestamp" : "2014-11-26T12:30:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "",
+      "title" : "Daring & Disruptive - Speaker Close Up",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -841,16 +856,16 @@
       "id" : "1AE1E147-1BCF-462A-B48A-9D4DABBEF072",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kerr.jpg",
+      "photoUrl" : "",
       "room" : "pr4_medieval",
       "speakers" : [
-        "C22FA651-92A7-4585-82DD-58359472402A"
+        "7C80D958-6083-4D17-9137-B2BE2B5FBC5A"
       ],
       "startTimestamp" : "2014-11-26T11:00:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Neuroscience and collaboration",
+      "title" : "When Customers, Startups & Business Collide",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -863,16 +878,16 @@
       "id" : "B4DAC2BC-EAC4-45FE-AE4A-D7ACF128C8C8",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/medina.jpg",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gleeson.jpg",
       "room" : "pr4_medieval",
       "speakers" : [
-        "043BB4B7-45A9-4303-BE7E-CD6040AB4A89"
+        "187CEE5D-2D8C-4169-9C9D-E334DAB5F25F"
       ],
       "startTimestamp" : "2014-11-26T11:30:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Speaker Close up",
+      "title" : "x 10 Thinking: Why Larry Page Lives by the Gospel of x 10 Thinking",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -885,7 +900,7 @@
       "id" : "4B6979D6-7487-422D-8EE4-D86F3AB528D3",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gribblel.jpg",
       "room" : "pr4_medieval",
       "speakers" : [
         "61A20DC9-781C-4B6A-AE12-C29C80537587"
@@ -894,27 +909,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Just one thing - managing change effectively in life",
-      "url" : "http://www.wiredforwonder.com",
-      "youtubeUrl" : ""
-    },
-    {
-      "captionsUrl" : "",
-      "color" : "#d17b00",
-      "description" : "",
-      "endTimestamp" : "2014-11-27T08:30:00Z",
-      "hashtag" : "WiredForWonder",
-      "id" : "60D9FA40-32C7-47B5-9E9B-D4C1B67EB7E7",
-      "isLivestream" : false,
-      "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
-      "room" : "main_theatre",
-      "speakers" : [],
-      "startTimestamp" : "2014-11-27T07:30:00Z",
-      "tags" : [
-        "WiredForWonder"
-      ],
-      "title" : "Meditation for Busy Minds",
+      "title" : "Just One Thing Now: How to Make Change Happen, with Less Stress and Greater Success",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -940,14 +935,14 @@
     },
     {
       "captionsUrl" : "",
-      "color" : "#ffffff",
+      "color" : "#ff0000",
       "description" : "",
       "endTimestamp" : "2014-11-27T08:45:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "87C3EEF3-5BF5-4791-A74A-67760FC47413",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/coustas.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "E17E00B8-3F67-4C39-BA73-5E5FCE7AC7F3"
@@ -969,7 +964,7 @@
       "id" : "85AFC73E-14C4-47D8-B23F-B0004268293F",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/weigend.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "6A8D203B-814F-419C-8919-A55AFDC5351A"
@@ -978,7 +973,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "Data is the New Oil",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -991,16 +986,16 @@
       "id" : "31202846-5F10-4572-95F6-C7AD3F863FBC",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/messenger.jpg",
       "room" : "main_theatre",
       "speakers" : [
-        "0AC4E5EC-CC1E-491F-9FE3-A3C204EA0519"
+        "42181747-2AF0-4D0E-802F-A0A125E40CD0"
       ],
       "startTimestamp" : "2014-11-27T09:15:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "Daring and Disruptive",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1013,16 +1008,16 @@
       "id" : "C92A475D-933C-4FA8-9D3A-6CE6A3AF2AD2",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/toevsa.jpg",
       "room" : "main_theatre",
       "speakers" : [
-        "2D553702-C3D4-4535-A671-DDDAC2AF3801"
+        "BB72409E-4F3D-4731-BCB6-4C76F4B55F47"
       ],
       "startTimestamp" : "2014-11-27T09:45:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "When our Mental Shortcuts Short Circuit",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1038,15 +1033,17 @@
       "photoUrl" : "",
       "room" : "main_theatre",
       "speakers" : [
-        "5EF3D4E3-B7C7-4CE8-AAF8-73B4118EA629",
-        "2E238A83-477C-4DFB-BC1B-788D2FA0CE4F",
-        "CF1AC72B-17D4-4424-9B21-C7FC0E80607A"
+        "F00F687C-3116-4001-A770-1C0D69576FB8",
+        "07ACC78A-7719-432F-B97C-17BE5F315B19",
+        "6A8D203B-814F-419C-8919-A55AFDC5351A",
+        "A0DB8D9C-CA0E-4AD7-BDFB-4FFAEF38F5C8",
+        "6258EFBF-8968-44AB-A48F-6247DB46855D"
       ],
       "startTimestamp" : "2014-11-27T11:00:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Philanthropy, Investment, Entrepreneurs:\rPhilanthropy and how rich people can support original thought and are keen to effect change by putting their wealth behind to noble ideas(in addition to the new helicopter)  and enabling individuals to reach their potential.",
+      "title" : "Identity and Privacy - The Perks and Perils of Openness",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1062,16 +1059,15 @@
       "photoUrl" : "",
       "room" : "main_theatre",
       "speakers" : [
-        "6A8D203B-814F-419C-8919-A55AFDC5351A",
-        "80B9C167-7232-4CBE-BF6A-4433B1A9CE65",
-        "F00F687C-3116-4001-A770-1C0D69576FB8",
-        "6258EFBF-8968-44AB-A48F-6247DB46855D"
+        "5EF3D4E3-B7C7-4CE8-AAF8-73B4118EA629",
+        "2E238A83-477C-4DFB-BC1B-788D2FA0CE4F",
+        "CF1AC72B-17D4-4424-9B21-C7FC0E80607A"
       ],
       "startTimestamp" : "2014-11-27T11:30:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Identiy in a new age",
+      "title" : "Mind the Gap - Philanthropy as an Enabler for Social Change",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1087,13 +1083,14 @@
       "photoUrl" : "",
       "room" : "main_theatre",
       "speakers" : [
-        "3C768502-4AD3-4B9C-BB87-F9879A508BB6"
+        "3C768502-4AD3-4B9C-BB87-F9879A508BB6",
+        "281D99AE-DD51-4A61-A480-63E855269F08"
       ],
       "startTimestamp" : "2014-11-27T12:30:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Enterprise 20/20 - Insights to the future",
+      "title" : "Enterprise 20/20 - Accelerating a Culture of Innovation",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1101,21 +1098,21 @@
       "captionsUrl" : "",
       "color" : "#27852c",
       "description" : "",
-      "endTimestamp" : "2014-11-27T14:00:00Z",
+      "endTimestamp" : "2014-11-27T14:30:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "AA13BE12-0A21-4E71-B056-9E0F9ADD04B3",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/fursman.jpg",
       "room" : "main_theatre",
       "speakers" : [
-        "D6FCDD1E-34DA-412C-B01D-CCB5A44CECDE"
+        "6258EFBF-8968-44AB-A48F-6247DB46855D"
       ],
-      "startTimestamp" : "2014-11-27T13:00:00Z",
+      "startTimestamp" : "2014-11-27T14:00:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "Supercomputing with Superpositions",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1128,7 +1125,7 @@
       "id" : "5C5F080E-61C0-472B-8F95-62BCB40A3991",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/jackson.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "6A5B5126-99F4-4AC8-B2CF-507000F022D4"
@@ -1137,7 +1134,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "Moving Hearts and Minds",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1153,13 +1150,13 @@
       "photoUrl" : "",
       "room" : "main_theatre",
       "speakers" : [
-        "6258EFBF-8968-44AB-A48F-6247DB46855D"
+        "18F0F0F9-5C7C-4407-A81C-8AC596F12742"
       ],
       "startTimestamp" : "2014-11-27T15:00:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "Hotwired to the Future",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1172,29 +1169,29 @@
       "id" : "A283DAEF-FBFE-410A-8807-26F73FB1B107",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/nguyen.jpg",
       "room" : "main_theatre",
       "speakers" : [
-        "18F0F0F9-5C7C-4407-A81C-8AC596F12742"
+        "AC353366-E645-40A1-82A1-F9C22FE5F1BF"
       ],
       "startTimestamp" : "2014-11-27T16:15:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "GenZ - Heroes of the Future?",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
     {
       "captionsUrl" : "",
-      "color" : "#ffffff",
+      "color" : "#ff0000",
       "description" : "",
       "endTimestamp" : "2014-11-27T17:45:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "D5DBA8E6-9E64-4AB1-97A2-BF5C055CCABD",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/vinh.jpg",
       "room" : "main_theatre",
       "speakers" : [
         "338791A4-0D80-421E-BF73-6DF58ED48E23"
@@ -1203,7 +1200,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "Anything is Possible with an Open Mind",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1211,21 +1208,21 @@
       "captionsUrl" : "",
       "color" : "#d17b00",
       "description" : "",
-      "endTimestamp" : "2014-11-27T17:45:00Z",
+      "endTimestamp" : "2014-11-27T11:40:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "FABA9699-6436-4359-A504-B26BFFB2A636",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
-      "room" : "main_theatre",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/reid.jpg",
+      "room" : "playhouse",
       "speakers" : [
-        "338791A4-0D80-421E-BF73-6DF58ED48E23"
+        "F1AD599B-95AC-43F1-AD5E-361B722C8D25"
       ],
-      "startTimestamp" : "2014-11-27T17:15:15Z",
+      "startTimestamp" : "2014-11-27T11:00:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Keynote",
+      "title" : "Through the Glass",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1233,21 +1230,21 @@
       "captionsUrl" : "",
       "color" : "#27852c",
       "description" : "",
-      "endTimestamp" : "2014-11-27T11:30:00Z",
+      "endTimestamp" : "2014-11-27T17:15:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "4054D440-2A57-49AD-858D-23E5669B2951",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
-      "room" : "playhouse",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/dawkins.jpg",
+      "room" : "main_theatre",
       "speakers" : [
         "D6FCDD1E-34DA-412C-B01D-CCB5A44CECDE"
       ],
-      "startTimestamp" : "2014-11-27T11:00:15Z",
+      "startTimestamp" : "2014-11-27T16:45:15Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Speaker Close up (Moderated)",
+      "title" : "Unweaving the Rainbow - Moderated Conversation",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1255,17 +1252,17 @@
       "captionsUrl" : "",
       "color" : "#27852c",
       "description" : "",
-      "endTimestamp" : "2014-11-27T12:30:00Z",
+      "endTimestamp" : "2014-11-27T12:20:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "C7383A01-FD62-4B4B-BC59-1B48DDBD6364",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/sahajwallav.jpg",
       "room" : "playhouse",
       "speakers" : [
-        "5178A963-D55C-454F-93B5-B893D7E70961"
+        "85894E31-C93B-4EB2-A428-F35D4A9D2F40"
       ],
-      "startTimestamp" : "2014-11-27T11:30:15Z",
+      "startTimestamp" : "2014-11-27T11:40:00Z",
       "tags" : [
         "WiredForWonder"
       ],
@@ -1282,19 +1279,16 @@
       "id" : "FE696D01-A00B-4389-A72E-0A10BB2B6C18",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/rajub.jpg",
       "room" : "playhouse",
       "speakers" : [
-        "6A8D203B-814F-419C-8919-A55AFDC5351A",
-        "80B9C167-7232-4CBE-BF6A-4433B1A9CE65",
-        "F00F687C-3116-4001-A770-1C0D69576FB8",
-        "6258EFBF-8968-44AB-A48F-6247DB46855D"
+        "A0DB8D9C-CA0E-4AD7-BDFB-4FFAEF38F5C8"
       ],
-      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "startTimestamp" : "2014-11-27T12:20:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Identiy in a new age",
+      "title" : "Agility in a Digital World Using Dev Ops",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1302,12 +1296,12 @@
       "captionsUrl" : "",
       "color" : "#923a75",
       "description" : "",
-      "endTimestamp" : "2014-11-27T11:30:00Z",
+      "endTimestamp" : "2014-11-27T11:40:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "AB0B5363-612E-41FD-B43A-6B3776F2BE11",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/jackson.jpg",
       "room" : "pr1_nautical",
       "speakers" : [
         "6A5B5126-99F4-4AC8-B2CF-507000F022D4"
@@ -1316,29 +1310,7 @@
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Creativity",
-      "url" : "http://www.wiredforwonder.com",
-      "youtubeUrl" : ""
-    },
-    {
-      "captionsUrl" : "",
-      "color" : "#923a75",
-      "description" : "",
-      "endTimestamp" : "2014-11-27T12:30:00Z",
-      "hashtag" : "WiredForWonder",
-      "id" : "D7FC7564-AD23-477E-B225-D5B269B27E23",
-      "isLivestream" : false,
-      "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
-      "room" : "pr2_court_house",
-      "speakers" : [
-        "6A5B5126-99F4-4AC8-B2CF-507000F022D4"
-      ],
-      "startTimestamp" : "2014-11-27T11:30:00Z",
-      "tags" : [
-        "WiredForWonder"
-      ],
-      "title" : "Creativity",
+      "title" : "View the World More Vividly",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1351,16 +1323,16 @@
       "id" : "AE0FC655-B755-4DB2-9C65-3EFEB13EC2F7",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/jackson.jpg",
       "room" : "pr3_alice",
       "speakers" : [
         "6A5B5126-99F4-4AC8-B2CF-507000F022D4"
       ],
-      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "startTimestamp" : "2014-11-27T12:20:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Creativity",
+      "title" : "How to Be a Great Listener",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1368,21 +1340,21 @@
       "captionsUrl" : "",
       "color" : "#b2b33b",
       "description" : "",
-      "endTimestamp" : "2014-11-27T12:30:00Z",
+      "endTimestamp" : "2014-11-27T12:20:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "F814B9A3-AB4D-4C1A-96D9-E3A0768BFED8",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/weigend.jpg",
       "room" : "pr1_nautical",
       "speakers" : [
-        "F1AD599B-95AC-43F1-AD5E-361B722C8D25"
+        "6A8D203B-814F-419C-8919-A55AFDC5351A"
       ],
-      "startTimestamp" : "2014-11-27T11:30:00Z",
+      "startTimestamp" : "2014-11-27T11:40:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Life through a Google Glass",
+      "title" : "Identity in a Digital Age",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1396,15 +1368,15 @@
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
       "photoUrl" : "",
-      "room" : "pr2_court_house",
+      "room" : "pr1_nautical",
       "speakers" : [
-        "F1AD599B-95AC-43F1-AD5E-361B722C8D25"
+        "2E238A83-477C-4DFB-BC1B-788D2FA0CE4F"
       ],
-      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "startTimestamp" : "2014-11-27T12:20:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Life through a Google Glass",
+      "title" : "Insipring Rare Birds",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
@@ -1412,83 +1384,17 @@
       "captionsUrl" : "",
       "color" : "#27852c",
       "description" : "",
-      "endTimestamp" : "2014-11-27T13:00:00Z",
+      "endTimestamp" : "2014-11-27T11:40:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "6409DB59-6C5F-490C-A975-8AC43C87B453",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
-      "room" : "pr1_nautical",
-      "speakers" : [
-        "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
-      ],
-      "startTimestamp" : "2014-11-27T12:30:00Z",
-      "tags" : [
-        "WiredForWonder"
-      ],
-      "title" : "Happiness",
-      "url" : "http://www.wiredforwonder.com",
-      "youtubeUrl" : ""
-    },
-    {
-      "captionsUrl" : "",
-      "color" : "#27852c",
-      "description" : "",
-      "endTimestamp" : "2014-11-27T11:30:00Z",
-      "hashtag" : "WiredForWonder",
-      "id" : "704D69C5-C36F-408A-A8C1-D967B4254A1F",
-      "isLivestream" : false,
-      "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/muller.jpg",
       "room" : "pr2_court_house",
-      "speakers" : [
-        "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
-      ],
-      "startTimestamp" : "2014-11-27T11:00:00Z",
-      "tags" : [
-        "WiredForWonder"
-      ],
-      "title" : "Happiness",
-      "url" : "http://www.wiredforwonder.com",
-      "youtubeUrl" : ""
-    },
-    {
-      "captionsUrl" : "",
-      "color" : "#27852c",
-      "description" : "",
-      "endTimestamp" : "2014-11-27T12:00:00Z",
-      "hashtag" : "WiredForWonder",
-      "id" : "1D5DEF3E-5CB5-4F7C-8EED-6C69554E9B4C",
-      "isLivestream" : false,
-      "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
-      "room" : "pr3_alice",
-      "speakers" : [
-        "7C3E93A5-EB65-4886-8234-4F5BCF728A7D"
-      ],
-      "startTimestamp" : "2014-11-27T11:30:00Z",
-      "tags" : [
-        "WiredForWonder"
-      ],
-      "title" : "Happiness",
-      "url" : "http://www.wiredforwonder.com",
-      "youtubeUrl" : ""
-    },
-    {
-      "captionsUrl" : "",
-      "color" : "#01b0f0",
-      "description" : "",
-      "endTimestamp" : "2014-11-27T11:30:00Z",
-      "hashtag" : "WiredForWonder",
-      "id" : "D4B52213-C4B9-4AAF-B5A6-9704098D57D6",
-      "isLivestream" : false,
-      "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
-      "room" : "pr3_alice",
       "speakers" : [
         "3C768502-4AD3-4B9C-BB87-F9879A508BB6"
       ],
-      "startTimestamp" : "2014-11-27T11:30:00Z",
+      "startTimestamp" : "2014-11-27T11:00:00Z",
       "tags" : [
         "WiredForWonder"
       ],
@@ -1498,25 +1404,114 @@
     },
     {
       "captionsUrl" : "",
-      "color" : "#d17b00",
+      "color" : "#27852c",
       "description" : "",
-      "endTimestamp" : "2014-11-27T12:30:00Z",
+      "endTimestamp" : "2014-11-27T12:20:00Z",
       "hashtag" : "WiredForWonder",
-      "id" : "463944AF-8D1F-43E1-9E25-F4F2C1BCC0C6",
+      "id" : "704D69C5-C36F-408A-A8C1-D967B4254A1F",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
-      "room" : "pr4_medieval",
-      "speakers" : [],
-      "startTimestamp" : "2014-11-27T11:00:00Z",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/jackson.jpg",
+      "room" : "pr2_court_house",
+      "speakers" : [
+        "6A5B5126-99F4-4AC8-B2CF-507000F022D4"
+      ],
+      "startTimestamp" : "2014-11-27T11:40:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Women in Focus - Wellbeing session",
+      "title" : "The Art of Story Telling",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
     {
+      "captionsUrl" : "",
+      "color" : "#27852c",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T13:00:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "1D5DEF3E-5CB5-4F7C-8EED-6C69554E9B4C",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/sahajwallav.jpg",
+      "room" : "pr3_alice",
+      "speakers" : [
+        "85894E31-C93B-4EB2-A428-F35D4A9D2F40"
+      ],
+      "startTimestamp" : "2014-11-27T12:20:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Green Manufacturing",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#01b0f0",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T11:40:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "D4B52213-C4B9-4AAF-B5A6-9704098D57D6",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/sahajwallav.jpg",
+      "room" : "pr3_alice",
+      "speakers" : [
+        "85894E31-C93B-4EB2-A428-F35D4A9D2F40"
+      ],
+      "startTimestamp" : "2014-11-27T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Green Manufacturing",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#d17b00",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T12:20:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "463944AF-8D1F-43E1-9E25-F4F2C1BCC0C6",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/reid.jpg",
+      "room" : "pr3_alice",
+      "speakers" : ["F1AD599B-95AC-43F1-AD5E-361B722C8D25"],
+      "startTimestamp" : "2014-11-27T11:40:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Through the Glass",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+        {
+      "captionsUrl" : "",
+      "color" : "#ff0000",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T12:20:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "2E688B9C-556E-434F-88BE-CEF438A9820D",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr4_medieval",
+      "speakers" : [
+        "2C500A1F-2D96-4A41-8471-358D3DF49D83",
+        "723B6307-044B-4ECF-8031-8D69899E77DC"
+      ],
+      "startTimestamp" : "2014-11-27T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Women in Focus and Health and Wellbeing",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+        {
       "captionsUrl" : "",
       "color" : "#ff0000",
       "description" : "",
@@ -1525,18 +1520,16 @@
       "id" : "2E688B9C-556E-434F-88BE-CEF438A9820D",
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
-      "photoUrl" : "",
+      "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gavanj.jpg",
       "room" : "pr4_medieval",
       "speakers" : [
-        "5EF3D4E3-B7C7-4CE8-AAF8-73B4118EA629",
-        "2E238A83-477C-4DFB-BC1B-788D2FA0CE4F",
-        "CF1AC72B-17D4-4424-9B21-C7FC0E80607A"
+        "E24C7E4B-B937-4E1D-95E6-2F43BB445BA2"
       ],
-      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "startTimestamp" : "2014-11-27T12:20:00Z",
       "tags" : [
         "WiredForWonder"
       ],
-      "title" : "Philanthropy, Investment, Entrepreneurs:\rPhilanthropy and how rich people can support original thought and are keen to effect change by putting their wealth behind to noble ideas(in addition to the new helicopter)  and enabling individuals to reach their potential.\r",
+      "title" : "The Artist Exemplar - Expanding Creative Comfort Zones at Work",
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     }
@@ -1548,7 +1541,7 @@
       "id" : "4138B188-DB80-49A5-B933-9FE216FA0D35",
       "name" : "Ian Narev",
       "plusoneUrl" : "",
-      "thumbnailUrl" : ""
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/narev.jpg"
     },
     {
       "bio" : "Guy Kawasaki is the chief evangelist of Canva, a graphics-design online service, and an executive fellow at the Haas School of Business at U.C. Berkeley. Formerly, he was an advisor to the Motorola business unit of Google and chief evangelist of Apple. He is also the author of APE, What the Plus!, Enchantment, and nine other books. Kawasaki has a BA from Stanford University and an MBA from UCLA as well as an honorary doctorate from Babson College.",
@@ -1684,7 +1677,7 @@
       "id" : "61A20DC9-781C-4B6A-AE12-C29C80537587",
       "name" : "Dr Lynn Gribble",
       "plusoneUrl" : "",
-      "thumbnailUrl" : ""
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gribblel.jpg"
     },
     {
       "bio" : "<p>Jo Burston breathes life and purpose into everything she does, making her the successful entrepreneur and natural leader you see today. Jo is a die hard entrepreneur, she sees everything as possible.</p>\n<p>With over 10 years spent in the outsource payroll, migration and contingent workforce space and now making moves in the technology sector, Jo has a strong belief in the power of dynamic business models matched with a thriving and work culture where only people with common values are allowed to play.</p>\n\n<p>She is actively passionate about the entrepreneurial space and, true to her nature, is a member of the global Entrepreneurs Organization. She sits on the board in Sydney as the Strategic Alliance chair, previously Education Chair, organising all learning events for their 130 entrepreneur members with businesses plus $5m and in 2014-2015, Strategic Alliance Chair, raising cash and kind resources to help entrepreneurs grow, learn and change the world within the membership and their own organisations.</p>\n\n<p>Praised as a business role model for women, today, Jo is currently in the midst of launching her next project, something she attributes to be her “true purpose in life”. Rare Birds is an Australian based movement that aims to be\nthe central hub of the women entrepreneurs space.</p>\n\n<p>Launching in October 2014 with plans to go global, Rare Birds will consist of a series of books, an online community, tools to success, mentor programs, access to money and resources and a documentary featuring some of the most notable female identities in Australian business and leadership.</p>",
@@ -1719,12 +1712,18 @@
       "thumbnailUrl" : ""
     },
     {
-      "bio" : "",
-      "company" : "",
+      "bio" : "<p>David Whiteing is the Group Executive, Enterprise Services and
+Chief Information Officer for the Commonwealth Bank of Australia.
+In this role he leads the technology and operation teams of the Group and is responsible for delivering the Group’s strategic pillar of the ‘world-leading application of operations and technology’.</p>
+<p>Prior to his appointment as Group Executive in July 2014, David was the Executive General Manager Architecture and Planning for Enterprise Services. He joined the Group in September 2013.</p>
+<p>David is a highly experienced business and IT executive with a track record of delivering technology transformation in many industries, including financial services, both in Australia and overseas.</p>
+<p>David’s background includes both in-house technology leadership as well as consulting roles, giving him deep insights into the challenges facing transformative IT businesses today.</p>
+<p>Prior to joining the Group, he was Vice President of Enterprise Systems at BP in the United Kingdom. He is a former Accenture partner with extensive SAP experience.</p>",
+      "company" : "CIO, Commonwealth Bank of Australia",
       "id" : "F00F687C-3116-4001-A770-1C0D69576FB8",
       "name" : "David Whiteing",
       "plusoneUrl" : "",
-      "thumbnailUrl" : ""
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/whiteingd.jpg"
     },
     {
       "bio" : "<p>Andrew is the CEO and Co-founder of 1QB Information Technologies (1QBit), the world’s first software company dedicated to producing applications for commercial quantum computers.</p>\n\n<p>Andrew studied Economics at the University of Waterloo and Philosophy and Political Science at the University of British Columbia prior to completing post-graduate programs in Technology Studies at Singularity University and Financial Engineering at Stanford University.</p>\n\n<p>Andrew was a founding partner at Vancouver-based VCC firm Minor Capital, co-founder of Satellogic Nano-Satellites, and co-founder of Cloudtel Communications.</p>",
@@ -1812,7 +1811,7 @@
       "id" : "BB72409E-4F3D-4731-BCB6-4C76F4B55F47",
       "name" : "Alden Toevs",
       "plusoneUrl" : "",
-      "thumbnailUrl" : ""
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/toevsa.jpg"
     },
     {
       "bio" : "<p>Pete Murray is Director of Business Unit Operations for Dimension Data Australia. In this role he is accountable for the go-to-market strategy across the Network, Communication, End User Compute, Security, and Application Integration business units, as well as the supporting vendor ecosystem.</p>\n\n<p>Additionally, Pete is accountable for the leadership of the architecture and sales specialisation for each of the business units nationally, which in turn are responsible for taking technology solutions to market, consulting and professional services, and a suite of managed services solutions from maintenance, to cloud, to outsourced service solutions.</p>",
@@ -1823,12 +1822,76 @@
       "thumbnailUrl" : ""
     },
     {
-      "bio" : "",
-      "company" : "",
-      "id" : "5178A963-D55C-454F-93B5-B893D7E70961",
-      "name" : "Venna Sahajwalla",
+      "bio" : "<p>EVP and Chief Solutions Officer at Polaris Financial Technology Limited, Raju brings close to 25 years of IT and Consulting experience across Europe, North America and Asia. He has held senior positions in Sales, Engagement Management, Practice Management, Country Leadership and Solutions Delivery. He has extensive experience in large and complex deal structuring, new engagement models including non-linear commercial models.</p>
+<p>Prior to Polaris, he was the Vice President in Financial Services & Insurance at Infosys responsible for growing part of the European business along with owning multiple horizontal practices. He set up Life Sciences business in Europe opening multiple large must-have accounts and also grew the account portfolio in DACH region.
+At IMR (now a part of CGI), Raju owned delivery for a large portfolio of customers across UK, US and South Africa. Previous to this, at TCS he played multiple roles across delivery and customer relationship management.</p>",
+      "company" : "EVP and Chief Solutions Officer, Polaris Financial Technology",
+      "id" : "A0DB8D9C-CA0E-4AD7-BDFB-4FFAEF38F5C8",
+      "name" : "Raju Bannur",
       "plusoneUrl" : "",
-      "thumbnailUrl" : ""
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/rajub.jpg"
+    },
+	{
+      "bio" : "<p>Group President, Global Business Services (GBS) and Chief Information Officer at Proctor & Gamble (P&G), Filippo has led the integration of P&G’s IT and services groups to form GBS, one of the largest and most progressive shared services organisations in the world. The GBS focus is on transforming the way business is done — being distinctive by anticipating the needs of the business and delivering relevant solutions that drive concrete business value and help P&G win with consumers. Innovative in structure, scope and philosophy, GBS continues to be a competitive advantage for P&G.
+Filippo has more than three decades of business-building experience with P&G in both developed and developing markets. He has lived and worked in the UK, Latin America, Greece, Italy, Turkey and the US, and is globally recognised as an information technology and shared services thought leader, known for having created new and progressive business models, leveraging digital technology. He has received numerous awards, including the inaugural Fisher-Hopper Prize for Lifetime Achievement in CIO Leadership, Shared Service Thought Leader of the Year, and InformationWeek’s Chief of the Year. Filippo is a member of the CIO Hall of Fame.</p>",
+      "company" : "Group President, Proctor & Gamble (P&G)",
+      "id" : "07ACC78A-7719-432F-B97C-17BE5F315B19",
+      "name" : "Filippo Passerini",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/passerinif.jpg"
+    },
+	{
+      "bio" : "<p>Dr Jane Gavan PhD is an artist, researcher and senior lecturer at the University of Sydney, School of Contemporary Art. She has spent the past decade studying how artists working with organisations can raise rates of creativity and innovation within their community.</p>
+<p>Jane has worked as a facilitator in the Global Executive MBA program at the University of Sydney in the Leadership Module since its launch in 2009.</p>
+<p>The many stories of her experiences as artist in residence in manufacturing communities such as a fluorescent colourant plant in Belgium, and a glass producer in Germany, have been told across a range of forums in the US, Belgium, Denmark, Hong Kong, China and Australia.</p>
+<p>Jane’s creative works are exhibited internationally and range across Design, Sculpture and Installation art with a focus on creating sustainable material and process innovations in a range of materials. Her work is based in practice - it is pragmatic in nature and focused on knowledge sharing and social engagement.</p>
+<p>A recent project at the University of Sydney involved a workshop with Chinese State Asset managers focusing on aesthetic leadership and its impact on levels of creativity in the workplace.</p>",
+      "company" : "Doctor, University of Sydney",
+      "id" : "E24C7E4B-B937-4E1D-95E6-2F43BB445BA2",
+      "name" : "Dr. Jane Gavan",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/gavanj.jpg"
+    },
+    {
+      "bio" : "Scientia Professor of Materials Science in the Faculty of Science at UNSW Australia, Veena is the Director of the UNSW SM@RT Centre for Sustainable Materials Research and Technology and an Australian Research Council Laureate Fellow. Veena is known for her role as
+a councillor on the independent Australian Climate Council and as a judge on the ABC television show The New Inventors, and also served as a commissioner on the now defunct Australian Climate Commission. Veena is known internationally as the Inventor of ‘Green Steel’ and her research is recognised for changing the way the properties of carbon-bearing materials are understood including coals, cokes, graphites, plastics and rubber.
+Veena’s unique focus on the evolution of carbon properties in high-temperature conditions has not only advanced scientific understanding of materials processing, but has provided cost-effective opportunities for industries to move towards sustainable and environmentally friendly production methods.",
+      "company" : "Professor, UNSW",
+      "id" : "85894E31-C93B-4EB2-A428-F35D4A9D2F40",
+      "name" : "Veena Sahajwalla",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/sahajwallav.jpg"
+    },
+    {
+      "bio" : "<p>As a Certified Nutrition, Health Counsellor and Reiki Healer, Simone
+specialises in digestive issues, fertility and cancer.</p>
+<p>Simone received her nutritional training at the Institute of Integrative Nutrition in New York City, and is certified by the American Association of Drugless Practitioners and the Australian Reiki Association.</p>
+<p>Simone looks at the interconnectedness of the body, mind, emotions and spirit to help facilitate wellness. The aim is to help people access their authentic self and attract greater serenity and joy to their life, while equipping them with the tools and knowledge to continue their journey of growth.</p>",
+      "company" : "",
+      "id" : "2C500A1F-2D96-4A41-8471-358D3DF49D83",
+      "name" : "Simone Kopkas",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/kopkass.jpg"
+    },
+    {
+      "bio" : "<p>Justine is the Principal Mentor at Soul Sessions where she teaches neuroscience and mindfulness based change techniques to individuals and organisations through transformational workshops, live and online events, classes and personal consultation.</p>
+<p>Originally trained as a Veterinary Surgeon, Justine has also studied and practiced yoga and meditation for over 16 years, is a qualified yoga instructor, a personal health and life coach and meditation teacher, embracing and teaching the neuro-scientific benefits of meditation.</p>
+<p>‘Simply put, when you know how something works, you are given the gift of influence. When you learn how the brain works, you discover the power and potential of your own mind.’</p>",
+      "company" : "",
+      "id" : "723B6307-044B-4ECF-8031-8D69899E77DC",
+      "name" : "Justine Ruszczyk",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/ruszczykj.jpg"
+    },
+    {
+      "bio" : "<p>Libby is the founder of two fitness businesses, AGOGA and Bottoms Up!, is fitness expert for Women’s Fitness Magazine and is a presenter and writer. She’s just launched her own online fitness program and is about to launch her own range of meat based protein bars.</p>
+<p>Libby’s particularly passionate about training women and has worked with a number of big-name Aussie models and celebrities to help them get red carpet ready (she won’t kiss & tell though!).</p>
+<p>She’s a big believer in empowering others to help them achieve their goals and her approach to fitness is to make it fun and engaging, helping people to find their own unique kind of joy through movement. Her approach is less ‘commando’ and more ‘influencer’, helping people to create consistently active lifestyles and adopt healthy attitudes towards healthy living. You could say her passion is more for movement and life than it is for exercise in the strictest sense.</p>",
+      "company" : "",
+      "id" : "E540C59A-F700-4368-B8A4-D109D8154053",
+      "name" : "Libby Babet",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/babetl.jpg"
     }
   ],
   "tags" : [
