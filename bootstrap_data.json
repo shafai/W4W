@@ -1406,6 +1406,29 @@
       "captionsUrl" : "",
       "color" : "#27852c",
       "description" : "",
+      "endTimestamp" : "2014-11-27T11:40:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "8AB674D3-E05F-40DE-9756-01AE498842B0",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr3_alice",
+      "speakers" : [
+        "2C500A1F-2D96-4A41-8471-358D3DF49D83",
+        "723B6307-044B-4ECF-8031-8D69899E77DC"
+      ],
+      "startTimestamp" : "2014-11-27T11:00:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Women in Focus and Health and Wellbeing",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
+    {
+      "captionsUrl" : "",
+      "color" : "#27852c",
+      "description" : "",
       "endTimestamp" : "2014-11-27T12:20:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "704D69C5-C36F-408A-A8C1-D967B4254A1F",
@@ -1870,6 +1893,14 @@
       "name" : "Libby Babet",
       "plusoneUrl" : "",
       "thumbnailUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/babetl.jpg"
+    },
+    {
+      "bio" : "<p></p>",
+      "company" : "",
+      "id" : "2D529BD1-DE69-473A-AA52-706B4F6B8490",
+      "name" : "Justine Ruscyzk",
+      "plusoneUrl" : "",
+      "thumbnailUrl" : ""
     }
   ],
   "tags" : [
