@@ -1045,7 +1045,7 @@
       "captionsUrl" : "",
       "color" : "#ff0000",
       "description" : "",
-      "endTimestamp" : "2014-11-27T11:30:00Z",
+      "endTimestamp" : "2014-11-27T11:40:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "FCE45C81-AB66-4A2B-9116-85E0C2A69766",
       "isLivestream" : false,
@@ -1071,7 +1071,7 @@
       "captionsUrl" : "",
       "color" : "#01b0f0",
       "description" : "",
-      "endTimestamp" : "2014-11-27T12:30:00Z",
+      "endTimestamp" : "2014-11-27T12:20:00Z",
       "hashtag" : "WiredForWonder",
       "id" : "D9AD2237-485B-49BE-A31B-295B60F88EEE",
       "isLivestream" : false,
@@ -1083,7 +1083,7 @@
         "2E238A83-477C-4DFB-BC1B-788D2FA0CE4F",
         "CF1AC72B-17D4-4424-9B21-C7FC0E80607A"
       ],
-      "startTimestamp" : "2014-11-27T11:30:00Z",
+      "startTimestamp" : "2014-11-27T11:40:00Z",
       "tags" : [
         "WiredForWonder"
       ],
@@ -1106,7 +1106,7 @@
         "3C768502-4AD3-4B9C-BB87-F9879A508BB6",
         "281D99AE-DD51-4A61-A480-63E855269F08"
       ],
-      "startTimestamp" : "2014-11-27T12:30:00Z",
+      "startTimestamp" : "2014-11-27T12:20:00Z",
       "tags" : [
         "WiredForWonder"
       ],
