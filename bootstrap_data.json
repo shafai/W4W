@@ -22,8 +22,8 @@
       "type" : "break"
     },
     {
-      "end" : "2014-11-26T15:30:00Z",
-      "start" : "2014-11-26T16:15:00Z",
+      "end" : "2014-11-26T16:15:00Z",
+      "start" : "2014-11-26T15:30:00Z",
       "subtitle" : "",
       "title" : "Afternoon Tea",
       "type" : "break"
@@ -50,8 +50,8 @@
       "type" : "break"
     },
     {
-      "end" : "2014-11-27T15:30:00Z",
-      "start" : "2014-11-27T16:15:00Z",
+      "end" : "2014-11-27T16:15:00Z",
+      "start" : "2014-11-27T15:30:00Z",
       "subtitle" : "",
       "title" : "Afternoon Tea",
       "type" : "break"
@@ -1434,7 +1434,7 @@
       "isLivestream" : false,
       "mainTag" : "WiredForWonder",
       "photoUrl" : "https://raw.githubusercontent.com/shafai/W4W/master/images/sahajwallav.jpg",
-      "room" : "pr3_alice",
+      "room" : "pr2_court_house",
       "speakers" : [
         "85894E31-C93B-4EB2-A428-F35D4A9D2F40"
       ],
