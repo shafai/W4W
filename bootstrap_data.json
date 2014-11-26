@@ -933,6 +933,26 @@
       "url" : "http://www.wiredforwonder.com",
       "youtubeUrl" : ""
     },
+        {
+      "captionsUrl" : "",
+      "color" : "#d17b00",
+      "description" : "",
+      "endTimestamp" : "2014-11-27T08:30:00Z",
+      "hashtag" : "WiredForWonder",
+      "id" : "8083E1E4-7750-4547-96E9-E321B3F13BDB",
+      "isLivestream" : false,
+      "mainTag" : "WiredForWonder",
+      "photoUrl" : "",
+      "room" : "pr1_nautical",
+      "speakers" : [],
+      "startTimestamp" : "2014-11-27T07:30:00Z",
+      "tags" : [
+        "WiredForWonder"
+      ],
+      "title" : "Meditation for busy minds",
+      "url" : "http://www.wiredforwonder.com",
+      "youtubeUrl" : ""
+    },
     {
       "captionsUrl" : "",
       "color" : "#ff0000",
