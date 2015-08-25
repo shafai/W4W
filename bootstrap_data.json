@@ -241,7 +241,7 @@
       "tags": [
         "WiredForWonder"
       ],
-      "title": "Wired for Wonder video",
+      "title": "Wired for Wonder Video",
       "url": "http://www.wiredforwonder.com",
       "youtubeUrl": ""
     },
@@ -357,6 +357,28 @@
     },
     {
       "captionsUrl": "",
+      "color": "#9a399a",
+      "description": "",
+      "endTimestamp": "2015-08-26T11:02:00Z",
+      "hashtag": "WiredForWonder",
+      "id": "33AE298F-E416-4E84-900A-A3AEE2994336",
+      "isLiveStream": false,
+      "mainTag": "WiredForWonder",
+      "photoUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/john-silva-hs.jpg",
+      "room": "main_theatre",
+      "speakers": [
+        "51D987D3-E180-43A3-ABA8-DB6683FF5845"
+      ],
+      "startTimestamp": "2015-08-26T11:00:00Z",
+      "tags": [
+        "WiredForWonder"
+      ],
+      "title": "Video",
+      "url": "http://www.wiredforwonder.com",
+      "youtubeUrl": ""
+    },
+    {
+      "captionsUrl": "",
       "color": "#a34fd7",
       "description": "",
       "endTimestamp": "2015-08-26T12:15:00Z",
@@ -408,7 +430,7 @@
       "captionsUrl": "",
       "color": "#37705d",
       "description": "",
-      "endTimestamp": "2015-08-26T14:10:00Z",
+      "endTimestamp": "2015-08-26T14:08:00Z",
       "hashtag": "WiredForWonder",
       "id": "BEDA5B78-0AA4-44EF-A3D4-9394C25F1268",
       "isLiveStream": false,
@@ -423,6 +445,26 @@
         "WiredForWonder"
       ],
       "title": "Collagen Exercise",
+      "url": "http://www.wiredforwonder.com",
+      "youtubeUrl": ""
+    },
+    {
+      "captionsUrl": "",
+      "color": "#b8377d",
+      "description": "",
+      "endTimestamp": "2015-08-26T14:10:00Z",
+      "hashtag": "WiredForWonder",
+      "id": "E52670B8-4435-424E-9381-B5DACAEB217E",
+      "isLiveStream": false,
+      "mainTag": "WiredForWonder",
+      "photoUrl": "",
+      "room": "main_theatre",
+      "speakers": [],
+      "startTimestamp": "2015-08-26T14:08:00Z",
+      "tags": [
+        "WiredForWonder"
+      ],
+      "title": "The Other Art Affair",
       "url": "http://www.wiredforwonder.com",
       "youtubeUrl": ""
     },
@@ -501,9 +543,11 @@
       "id": "69681B95-A526-44D4-A769-EEAABA0BB87C",
       "isLiveStream": false,
       "mainTag": "WiredForWonder",
-      "photoUrl": "",
+      "photoUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/john-silva-hs.jpg",
       "room": "main_theatre",
-      "speakers": [],
+      "speakers": [
+        "51D987D3-E180-43A3-ABA8-DB6683FF5845"
+      ],
       "startTimestamp": "2015-08-26T15:20:00Z",
       "tags": [
         "WiredForWonder"
@@ -587,9 +631,11 @@
       "id": "0C562390-5DC4-4A2D-BFEF-9EFE63ECD420",
       "isLiveStream": false,
       "mainTag": "WiredForWonder",
-      "photoUrl": "",
+      "photoUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/adam-bennett-hs.jpg",
       "room": "main_theatre",
-      "speakers": [],
+      "speakers": [
+        "B005C212-48DE-406F-84ED-578728FC68A4"
+      ],
       "startTimestamp": "2015-08-27T09:30:00Z",
       "tags": [
         "WiredForWonder"
@@ -673,9 +719,11 @@
       "id": "B985E79A-7111-487E-925C-B865FEA30F74",
       "isLiveStream": false,
       "mainTag": "WiredForWonder",
-      "photoUrl": "",
+      "photoUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/john-silva-hs.jpg",
       "room": "main_theatre",
-      "speakers": [],
+      "speakers": [
+        "51D987D3-E180-43A3-ABA8-DB6683FF5845"
+      ],
       "startTimestamp": "2015-08-27T11:00:00Z",
       "tags": [
         "WiredForWonder"
@@ -693,9 +741,11 @@
       "id": "CE0AF9AF-A53D-4720-860A-0FC74F0CD837",
       "isLiveStream": false,
       "mainTag": "WiredForWonder",
-      "photoUrl": "",
+      "photoUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/sarah-darmody-hs.jpg",
       "room": "main_theatre",
-      "speakers": [],
+      "speakers": [
+        "02709459-B01A-4FE1-A9CC-564E8050A897"
+      ],
       "startTimestamp": "2015-08-27T11:35:00Z",
       "tags": [
         "WiredForWonder"
@@ -713,14 +763,38 @@
       "id": "3908EA9A-0EBB-4F99-AE41-AD38B48704E4",
       "isLiveStream": false,
       "mainTag": "WiredForWonder",
-      "photoUrl": "",
+      "photoUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/john-silva-hs.jpg",
       "room": "main_theatre",
-      "speakers": [],
+      "speakers": [
+        "51D987D3-E180-43A3-ABA8-DB6683FF5845"
+      ],
       "startTimestamp": "2015-08-27T14:00:00Z",
       "tags": [
         "WiredForWonder"
       ],
       "title": "Video",
+      "url": "http://www.wiredforwonder.com",
+      "youtubeUrl": ""
+    },
+    {
+      "captionsUrl": "",
+      "color": "#fe8468",
+      "description": "",
+      "endTimestamp": "2015-08-27T14:10:00Z",
+      "hashtag": "WiredForWonder",
+      "id": "5F6DB431-685B-4587-B43A-2BB3C41ABBBE",
+      "isLiveStream": false,
+      "mainTag": "WiredForWonder",
+      "photoUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/james-hs.jpg",
+      "room": "main_theatre",
+      "speakers": [
+        "4E0260C6-FCF2-4D7D-AFDC-DB370D65D004"
+      ],
+      "startTimestamp": "2015-08-27T14:00:00Z",
+      "tags": [
+        "WiredForWonder"
+      ],
+      "title": "Bockers & Pony",
       "url": "http://www.wiredforwonder.com",
       "youtubeUrl": ""
     },
@@ -742,7 +816,7 @@
       "tags": [
         "WiredForWonder"
       ],
-      "title": "Disruptors",
+      "title": "Why being social is more than being social",
       "url": "http://www.wiredforwonder.com",
       "youtubeUrl": ""
     },
@@ -997,9 +1071,11 @@
       "id": "91DC463B-1AAF-40F6-AB94-58A2DD8553BE",
       "isLiveStream": false,
       "mainTag": "WiredForWonder",
-      "photoUrl": "",
+      "photoUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/heather-whitely-hs.jpg",
       "room": "rehearsal_room_1",
-      "speakers": [],
+      "speakers": [
+        "834A995B-7AE0-49A1-B2F7-76B1A38449C2"
+      ],
       "startTimestamp": "2015-08-26T11:30:00Z",
       "tags": [
         "WiredForWonder"
@@ -1328,7 +1404,7 @@
       "tags": [
         "WiredForWonder"
       ],
-      "title": "Tapping Into Your Inner Creative",
+      "title": "Finding Your Inner Creative",
       "url": "http://www.wiredforwonder.com",
       "youtubeUrl": ""
     },
@@ -1350,7 +1426,7 @@
       "tags": [
         "WiredForWonder"
       ],
-      "title": "Tapping Into Your Inner Creative",
+      "title": "Finding Your Inner Creative",
       "url": "http://www.wiredforwonder.com",
       "youtubeUrl": ""
     },
@@ -1392,7 +1468,7 @@
       "tags": [
         "WiredForWonder"
       ],
-      "title": "Parenting - Are the Kids Really Out of Control?",
+      "title": "Why Everything We Think About Disciplining Our Children is Wrong",
       "url": "http://www.wiredforwonder.com",
       "youtubeUrl": ""
     },
@@ -1668,9 +1744,11 @@
       "id": "37171A1D-9274-46A6-8E06-00A725948250",
       "isLiveStream": false,
       "mainTag": "WiredForWonder",
-      "photoUrl": "",
+      "photoUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/john-silva-hs.jpg",
       "room": "peninsula_a",
-      "speakers": [],
+      "speakers": [
+        "51D987D3-E180-43A3-ABA8-DB6683FF5845"
+      ],
       "startTimestamp": "2015-08-28T10:00:00Z",
       "tags": [
         "WiredForWonder"
@@ -1976,9 +2054,11 @@
       "id": "AA4C5A07-3D67-4D98-9880-631DA04F0A93",
       "isLiveStream": false,
       "mainTag": "WiredForWonder",
-      "photoUrl": "",
+      "photoUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/sarah-darmody-hs.jpg",
       "room": "sumac",
-      "speakers": [],
+      "speakers": [
+        "02709459-B01A-4FE1-A9CC-564E8050A897"
+      ],
       "startTimestamp": "2015-08-28T11:00:00Z",
       "tags": [
         "WiredForWonder"
@@ -2400,6 +2480,46 @@
       "name": "Josh Hedge",
       "plusOneUrl": "",
       "thumbnailUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/josh-hedge-hs.jpg"
+    },
+    {
+      "bio": "",
+      "company": "",
+      "id": "51D987D3-E180-43A3-ABA8-DB6683FF5845",
+      "name": "Jason Silva",
+      "plusOneUrl": "",
+      "thumbnailUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/jason-silva-hs.jpg"
+    },
+    {
+      "bio": "",
+      "company": "",
+      "id": "834A995B-7AE0-49A1-B2F7-76B1A38449C2",
+      "name": "Heather Whitely",
+      "plusOneUrl": "",
+      "thumbnailUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/heather-whitely-hs.jpg"
+    },
+    {
+      "bio": "",
+      "company": "",
+      "id": "02709459-B01A-4FE1-A9CC-564E8050A897",
+      "name": "Sarah Darmody",
+      "plusOneUrl": "",
+      "thumbnailUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/sarah-darmody-hs.jpg"
+    },
+    {
+      "bio": "",
+      "company": "",
+      "id": "4E0260C6-FCF2-4D7D-AFDC-DB370D65D004",
+      "name": "James",
+      "plusOneUrl": "",
+      "thumbnailUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/james-hs.jpg"
+    },
+    {
+      "bio": "",
+      "company": "",
+      "id": "B005C212-48DE-406F-84ED-578728FC68A4",
+      "name": "Adam Bennett",
+      "plusOneUrl": "",
+      "thumbnailUrl": "https://raw.githubusercontent.com/shafai/W4W/master/images/adam-bennett-hs.jpg"
     }
   ],
   "tags": [],
